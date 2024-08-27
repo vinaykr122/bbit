@@ -1,0 +1,1309 @@
+<style>
+
+.main-menu .sub-menu{
+    width:200px;
+}
+.main-menu .sub-menu li{
+    position:relative;
+}
+.sub-sub-menu{
+    left: 201px;
+    width: 200px;
+    display: none;
+    background: #fff;
+}
+.sub-menu li:hover .sub-sub-menu {
+    transform: scaleY(1);
+    display:block;
+    position:absolute;
+}
+.sub-sub-menu {
+    top: 3px;
+    border-radius: 5px;
+}
+
+.sub-sub-menu li a {
+    line-height: 35px;
+    display: block;
+    border-bottom: 1px dotted #555;
+    color: #131313;
+    font-weight: 600;
+}
+@media(max-width:767px){
+  .sub-menu li:hover .sub-sub-menu {
+    position:inherit;
+}  
+}
+
+
+.trigger_popup {
+    transform: rotate(270deg);
+    position: fixed;
+    top: 45%;
+    right: -94px;
+    z-index: 999;
+    cursor: pointer;
+    background-color: #f89f31;
+    border-color: #1397e3;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 10px 39px;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.33;
+    border: medium none;
+}
+</style>
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+    
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16595602617"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16595602617');
+</script>
+        <!-- Mobile Specific Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Add Favicon -->
+       <!--  <link rel="shortcut icon" href="img/logo/favicon.png"> -->
+        <!-- Author Meta -->
+        
+        
+        <!-- ==========seo section============= -->
+
+        <!-- Site Title -->
+       
+       <title>Dean Diploma</title>
+
+        <!-- Author Meta -->
+        <meta name="title" content="Dean Diploma" />
+
+          <!-- Meta Keyword -->
+          <!--<meta name="keywords" content="" /> -->
+
+
+  
+        <!-- Meta Description -->
+        <meta name="description" content="Dean Diploma" />
+        
+        <meta property="og:title" content="Dean Diploma" />
+          <meta property="og:type" content="article" />
+                    <meta property="og:url" content="https://www.bbit.edu.in/pages/dean-diploma" />
+          <meta property="og:image" content="Dean Diploma" />
+       
+       
+        <!-- ========= seo section end =========== -->
+        
+        <!--
+        CSS
+        ============================================= -->
+        <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Calibri:400,700,400italic,700italic" rel="">
+        <link rel="stylesheet" href="../assets/frontend_template/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/materialize.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/owl.carousel.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/et-line.css">
+        <!-- <link rel="stylesheet" href="css/animate.css"> -->
+        <link rel="stylesheet" href="../assets/frontend_template/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/slicknav.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/flaticon.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/main.css">
+        <!-- <link rel="stylesheet" href="css/minified.css"> -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/css/swiper.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
+        
+        <script id="ee-form-2" src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/bbitkolkata/ee-form-widget/form-2/widget.js"></script>
+
+        
+    </head>
+    <body>
+        
+        <!--Script for NPF widget-->
+         <!--
+         <script type="text/javascript"> var npf_d='https://admission.bbit.edu.in'; var npf_c='4011'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
+         
+         
+       <script type="text/javascript"> var npf_d='https://bbit.nopaperforms.com'; var npf_c='4011'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>-->
+        <!--Script for NPF widget-->
+        <main>
+<header id="header5" class="white-bg k-header-top default-header">
+     
+    <!--<a id="admission_enq_btn" class="trigger_popup" href="#" data-toggle="modal" data-target="#enquire_modal">Admission Enquiry</a>-->
+        <div class="header-top hidden-xs">
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12 top-center">
+                     
+
+                    <ul class="top-menu flex flex-left float-left">
+                           <!-- Start Dynamic top header menu item-->
+                                                <li>
+                        <a href="research" >Research</a>  
+                        </li>                        
+                                                <li>
+                        <a href="alumni" >Alumni</a>  
+                        </li>                        
+                                                <li>
+                        <a href="https://www.flickr.com/photos/bbitpict/collections/72157666248476002/" target="_blank">Photo Gallery</a>  
+                        </li>                        
+                                                <li>
+                        <a href="../notice" >Notice</a>  
+                        </li>                        
+                                                <li>
+                        <a href="../event/news_event" >News & Events</a>  
+                        </li>                        
+                                              <!-- End Dynamic top header menu item-->
+                      
+                        <li>
+                            <!--<a href="#" data-toggle="modal" data-target="#grievanceModal">Grievance/Feedback</a>-->
+                            <a href="../grievance-feedback">Grievance/Feedback</a>
+                        </li>
+                    </ul>
+
+                    <ul class="top-menu flex flex-right">
+                        <li>For Enquiry: 
+                            <a href="dean-diploma#!" class="" style="">8420123333/9836888444</a>
+                        </li>
+                        <li>
+                            <a href="../apply-now-admission" target="_blank" class="apply_link">Apply Now</a>
+                        </li>
+                     <!--   <li>
+                            <a href="#" class="searchbox" style="line-height: 26px;">
+                            <form>
+                                <input name="q" id="search" type="text" size="10" placeholder="Search here">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                        </a>
+                    </li>-->
+                        <li><a href="https://www.facebook.com/bbitofficial"><i style="color: #fff;" class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.youtube.com/watch?v=fzelXDFVgUc"><i style="color: #fff;" class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div  class="container">
+        <div class="navbar-area kindergarten-nav space-between header-logo">
+            <div class="left-bar">
+                <div class="logo">
+                    <a href="../index.html">
+                        <img src="../assets/frontend_template/img/logo.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+	<div class="navbar-area kindergarten-nav flex space-between">
+	<div class="flex">
+		<nav>
+			<ul id="mobile" class="main-menu  hidden-xs">
+      
+								<!-- step 1 -->
+				 <li>
+				 										</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="dean-diploma#" class="" data-toggle="">Institute</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="about-us" class="" data-toggle="">About Us</a>
+													</li>
+												<li class="">
+							<a href="mission-vision" class="" data-toggle="">Mission & Vision</a>
+													</li>
+												<li class="">
+							<a href="managing-trustee" class="" data-toggle="">Managing Trustee</a>
+													</li>
+												<li class="">
+							<a href="from-chairman-s-desk" class="" data-toggle="">From Chairman's Desk</a>
+													</li>
+												<li class="">
+							<a href="executive-director-s-desk" class="" data-toggle="">Executive Director's Desk</a>
+													</li>
+												<li class="">
+							<a href="director-s-desk" class="" data-toggle="">Director's Desk</a>
+													</li>
+												<li class="">
+							<a href="principal-s-desk" class="" data-toggle="">Principal's Desk</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="dean-diploma#" class="" data-toggle="">Academics</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="dean-diploma#" class="" data-toggle="">M.TECH</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="power-systems-ee">Power Systems (EE)</a></li>
+																<li><a href="m-tech-computer-science-engineering-cse">Computer Science & Engineering (CSE)</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="dean-diploma#" class="" data-toggle="">MBA</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="marketing">Marketing</a></li>
+																<li><a href="finance">Finance</a></li>
+																<li><a href="hr">HR</a></li>
+																<li><a href="business-analytics">Business Analytics</a></li>
+																<li><a href="operations">Operations</a></li>
+																<li><a href="healthcare">Healthcare</a></li>
+																<li><a href="systems">Systems</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="dean-diploma#" class="" data-toggle="">B.TECH</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="civil-engineering-ce">Civil Engineering (CE)</a></li>
+																<li><a href="mechanical-engineering-me">Mechanical Engineering (ME)</a></li>
+																<li><a href="electrical-engineering-ee">Electrical Engineering (EE)</a></li>
+																<li><a href="electronics-communication-engineering-ece">Electronics & Communication Engineering (ECE)</a></li>
+																<li><a href="computer-science-engineering-cse">Computer Science & Engineering (CSE)</a></li>
+																<li><a href="basic-science-and-humanities-department-bsh">Basic Science And Humanities Department(BSH)</a></li>
+																<li><a href="information-technology-it">Information Technology(IT)</a></li>
+																<li><a href="cse-in-artificial-intelligence">CSE in Artificial Intelligence</a></li>
+																<li><a href="cse-in-cyber-security">CSE in Cyber Security</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="dean-diploma#" class="" data-toggle="">POLYTECHNIC</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="civil-engineering">Civil Engineering</a></li>
+																<li><a href="mechanical-engineering">Mechanical Engineering</a></li>
+																<li><a href="electrical-engineering">Electrical Engineering</a></li>
+																<li><a href="electronics-tele-communication-engineering">Electronics & Tele Communication Engineering</a></li>
+																<li><a href="computer-science-technology">Computer Science & Technology</a></li>
+																<li><a href="basic-science-and-humanities-depertment-bsh">Basic Science And Humanities Depertment(BSH)</a></li>
+														    </ul>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="dean-diploma#" class="" data-toggle="">Admission</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="eligibility-criteria" class="" data-toggle="">Eligibility Criteria</a>
+													</li>
+												<li class="">
+							<a href="discipline" class="" data-toggle="">Discipline</a>
+													</li>
+												<li class="">
+							<a href="scholarship" class="" data-toggle="">Scholarship</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="dean-diploma#" class="" data-toggle="">Administration</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="dean-diploma#" class="" data-toggle="">Organization</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="director">Director</a></li>
+																<li><a href="deans">Deans</a></li>
+																<li><a href="registrar">Registrar</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="academic-council" class="" data-toggle="">Academic Council</a>
+													</li>
+												<li class="">
+							<a href="administration_governing-body" class="" data-toggle="">Governing Body</a>
+													</li>
+												<li class="">
+							<a href="rti" class="" data-toggle="">RTI</a>
+													</li>
+												<li class="">
+							<a href="bbit-regulations" class="" data-toggle="">BBIT Regulations</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 										</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="campus-life" class="" data-toggle="">Campus Life</a>
+                    									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="affiliation" class="" data-toggle="">Affiliation</a>
+                    									</li>
+								<!-- step 1 -->
+				 <li>
+				 											<!-- step 2 -->
+					<ul class="sub-menu">
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="dean-diploma#" class="" data-toggle="">Placement</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="introduction" class="" data-toggle="">Introduction</a>
+													</li>
+												<li class="">
+							<a href="team-members" class="" data-toggle="">Team Members</a>
+													</li>
+												<li class="">
+							<a href="training" class="" data-toggle="">Training</a>
+													</li>
+												<li class="">
+							<a href="placement-status" class="" data-toggle="">Placement Status</a>
+													</li>
+												<li class="">
+							<a href="placement-opportunities" class="" data-toggle="">Placement Opportunities</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="dean-diploma#" class="" data-toggle="">Contact</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="../contact-us" class="" data-toggle="">Contact Us</a>
+													</li>
+												<li class="">
+							<a href="../map-and-direction" class="" data-toggle="">Maps And Directions</a>
+													</li>
+												<li class="">
+							<a href="press-release" class="" data-toggle="">Press Release</a>
+													</li>
+											</ul>
+									</li>
+								
+				                <li class="topmenu-hd">
+                <a href="research" >Research</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="alumni" >Alumni</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="https://www.flickr.com/photos/bbitpict/collections/72157666248476002/" target="_blank">Photo Gallery</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="../notice" >Notice</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="../event/news_event" >News & Events</a>  
+                </li>                        
+                                
+                   <li class="topmenu-hd">
+                    <a href="../grievance-feedback">Grievance/Feedback</a>
+                 </li>
+                 <li class="topmenu-hd">
+                    <a href="../apply-now-admission" target="_blank" class="apply_link">Apply Now</a>
+                 </li>
+                
+                
+			</ul>
+		</nav>
+	</div>
+</div>     
+	</div>
+</header>
+
+<!--======================= Banner Or Parallax========================-->
+   
+
+
+  <!--======================= Banner Or Parallax========================-->
+
+    <style>
+        .static-banner {
+            background: url(https://www.bbit.edu.in/assets/upload/banner/) no-repeat;
+            background-size: cover;
+            height: 300px;
+            position: relative;
+        }
+        .left-menu .active{color: red;}
+        .StateId.field-select {
+            width: 100% !important;
+        }
+    </style>
+<!-- Static Banner Area Start -->
+<section id="slider">
+    <div class="static-banner relative">
+        <div class="overlay blue-overlay-5"></div>
+        <div class="page-head">
+            <h2 class="page-title">The Dean - Polytechnic</h2>
+            <ul class="page-title-btn">
+                <li><a href="../index.html" target="_blank">Home <i class="fa fa-caret-right" aria-hidden="true"></i></a></li>
+                <li><a href="dean-diploma#" class="active">The Dean - Polytechnic</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- Static Banner Area End -->
+<!-- Welcome Area Start -->
+
+<section class="section-full bg-gray">
+    <div class="container">
+        <div class="core-feature">
+            <div class="row">
+                <div class="col-md-3 col-sm-4 col-xs-12 buddypress-widget-total res-pad">
+                <div class="single-widget pb-10">
+                   <!--=======================Side Menu========================-->
+                                         
+                     <div class="single-widget pb-10 l-menu">
+    <h2 class="main-head-event">Administration</h2>
+        <div class="common-shadow community">
+        <ul class="left-menu">
+                        <li class="">
+                <a href="dean-diploma#" class="">Organization</a>
+                
+                                 <ul class="l-sub-menu">
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="dean-diploma#collapseOne204" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Director                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne204" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="dga"><span>-</span> DGA</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="dean-diploma#collapseOne205" aria-expanded="true" aria-controls="collapseOne" class=" ">
+                                  Deans                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne205" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="dean-academics"><span>-</span> Dean Academics</a></li>
+                                                                          <li class="active"><a class="active" href="dean-diploma"><span>-</span> Dean Diploma</a></li>
+                                                                          <li class=""><a class="" href="dean-mba"><span>-</span> Dean MBA</a></li>
+                                                                          <li class=""><a class="" href="dean-r-d"><span>-</span> Dean R&D</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="dean-diploma#collapseOne195" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Registrar                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne195" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="registar"><span>-</span> Registar</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                     </ul>
+                            </li>
+                        <li class="">
+                <a href="academic-council" class="">Academic Council</a>
+                
+                            </li>
+                        <li class="">
+                <a href="administration_governing-body" class="">Governing Body</a>
+                
+                            </li>
+                        <li class="">
+                <a href="rti" class="">RTI</a>
+                
+                            </li>
+                        <li class="">
+                <a href="bbit-regulations" class="">BBIT Regulations</a>
+                
+                            </li>
+                    </ul>
+    </div>
+        
+</div>                   
+                </div>
+                
+                
+                <!-- Apply Now -->
+                <div class="single-widget pb-10">
+    <h2 class="main-head-event">Apply Now</h2>
+    
+    <!--alert message-->
+    <div class="alert alert-success d-none" style="display: none" id="newmsgapp">Thanks For contacting us</div>
+    
+    <div class="common-shadow member-login event-filter">
+           <form class="signup_form" action="https://www.bbit.edu.in/home/new_form_application" method="POST" id="new_application_form"> 
+        
+            <div class="single-filter mb-10">
+                <input spellcheck="false"  type="text" name="new_application_name" id="new_application_name" size="18" required="" placeholder="Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Name'">
+            </div>
+            <div class="single-filter mb-10">
+                <input type="email" name="new_application_email" id="new_application_email" spellcheck="false"  size="18" required="" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'">
+            </div>
+            <div class="single-filter mb-10">
+                <input type="text" name="new_application_mobile" id="new_application_mobile"  spellcheck="false" size="18" required="" placeholder="Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'">
+            </div>
+            <div class="single-filter mb-10">
+                <select  name="new_application_program" id="new_application_program">
+                    <option value="" selected>Select Program*</option>
+                                        <option value="11">M.TECH</option>
+                                        <option value="13">MBA</option>
+                                        <option value="34">B.TECH</option>
+                                        <option value="41">POLYTECHNIC</option>
+                                    </select>
+            </div>
+            <div class="single-filter mb-10" id="div3" style="display: none">
+                <select  id="new_application_course" name="new_application_course"> 
+                </select>
+            </div>
+            <div class="single-filter mb-10">
+                <button class="btn" id="submit" type="submit">Submit</button>
+            </div>
+        </form>
+        <!--<p>Not a Member yet? <a href="#">Register</a></p>-->
+    </div>
+</div>                <!-- End Apply Now -->
+                
+                 <!-- Enquire Now NPF Wdget-->
+                                <!-- Enquire Now NPF Wdget-->
+                
+            </div>
+                <div class="col-md-9 col-sm-8 col-xs-12 block-right">
+                    <div class="section-head pb-100">
+                        <h2><i class="fa fa-crosshairs"></i> The Dean - Polytechnic</h2>
+                        <div class="home-about-right-img"><img src="data:image/gif;base64,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" style="width: 110px;" data-filename="Siladitya.gif"></div>
+<p> "It is a great pleasure for me to state that in a relatively short span of time, Budge Budge Institute of Technology (BBIT) has proved itself as an institution to promote and encourage a student’s conceptual knowledge on technical education. For achieving this the institute has a well-knit family of full-time qualified faculty members in five important branches of engineering. It is our endeavor to educate our students focused on all-around personality development so that they can meet the growing challenges and changing needs of the industry. Our institute provides state-of-the-art infrastructure to facilitate optimum resource allocation to each student in the areas of learning and specialization to build them, dexterous engineers. In addition to this, our institute provides ample facilities for students to take part in co-curricular and extra-curricular activities as well.</p>
+<p>Here at BBIT, we look forward to grooming our students not only to become skilled engineers but also responsible citizens of the country and above all good human beings by infusing in them a strong sense of ethics, discipline, social and moral values. We strongly believe in providing a distinctive and relevant combination of academic skills and technical experience to our students that will lay the foundation of his/her career to become a true professional on successful completion of the course curricula." 
+With this brief overview of our institute, I would like to welcome the fresh batch of students joining BBIT. Hope their studies in this institute will prove to be highly fruitful to build up a successful and illustrious career.</p>
+<p>Best wishes to all for a bright future!</p>
+<p>
+<strong>- Prof. (Dr.) Siladitya Bandyopadhyay</strong><br>
+Dean of Polytechnic<br>
+Qualifications: M.Sc., Ph.D<br>
+Former Faculty Member of Jadavpur University. <br>
+</p>                        
+                        
+                                            </div>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+       
+    </div>
+</section>
+
+
+
+
+</main>
+<!-- Footer Area Start -->
+<footer id="footer1" class="bg-blue" style="background: #444">
+    <div class="footer2">
+        <div class="container">
+            <div class="row" style="padding-bottom: 15px;">
+                <div class="footer-widget">
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-address">
+                            <h4 class="second-title">About BBIT</h4>
+                            <!--<img src="img/footer/1.jpg" alt="" class="img-responsive">-->
+                            <ul class="footer-address">
+                                <li><span class="et-line icon-map-pin"></span>Nischintapur, Budge Budge, Kolkata - 700 137, West Bengal, India</li>
+                                <li><span class="et-line icon-mic"></span> 033 2482 0641</li>
+                                <li><span class="et-line icon-global"></span>contact@bbit.edu.in</li>
+                            </ul>
+                        </div>
+                        <div class="banking-partner-logo" style="margin-top:20px; width:100%">
+                            <img src="../assets/frontend/images/IndusIndBankJPEGlogo.jpg" alt="" class="img-responsive">
+                        </div>
+                        <form style="margin: 0 auto; margin-top: 15px;display: table;"><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_FtPQY7NjOgxETj"> </script> </form>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-link">
+                            <h4 class="second-title">Useful Links</h4>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <ul>
+                                        <li><a href="about-us">About BBIT</a></li>
+                                        <li><a href="managing-trustee">Managing Trustee</a></li>
+                                        <li><a href="advisory-body">Advisory Body</a></li>
+                                        <li><a href="governing-body">Governing Body</a></li>
+                                        <li><a href="discipline">Discipline</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-8">
+                                    <ul>
+                                        <li><a href="../assets/pdf/Institute_Mandatory_disclosure_2021.pdf" target="_blank">Mandatory Disclousure</a></li>
+                                        <li><a href="training">Training & Placement</a></li>
+                                        <li><a href="alumni">Alumni</a></li>
+                                        <li><a href="../download-file">Downloads</a></li>
+                                                                                <li><a href="nirf">NIRF</a></li>
+                                        <li><a href="iqac">IQAC</a></li>
+                                        <li><a href="ssr">SSR</a></li>
+                                        <li><a href="refund-policy">Refund Policy</a></li>
+                                        <li><a href="naac-appeal">NAAC Appeal</a></li>
+                                        <li><a href="../grievance-feedback">Grievance/Feedback</a></li>
+                                        <li><a class="apply_link" href="../apply-now-admission" target="_blank">Apply Now</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-link">
+                            <h4 class="second-title">Students Corner</h4>
+                            <ul class="student-corner">
+                                                                    
+                                <li><a target="_blank" href="http://www.bbitpublicschool.com/">B.B.I.T. Public School</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="http://jimsh.org">JIMSH Medical College</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="../assets/upload/417914_sar-me-dept.pdf">SAR ME Dept.</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="../career/index.html">Careers</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="../assets/upload/711886_MECHAZINE_Hardcopy_4.pdf">Mechazine 2018</a></li>
+
+                                                                     
+                                <li><a  href="dean-diploma#!">News Letter 2019-20</a></li>
+
+                                                                 
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-link">
+                            <div class="flickr-widget">
+            <a target="_blank" href="https://www.flickr.com/photos/bbitpict/sets"><h4 class="second-title">Flickr Feed</h4></a>
+            <ul class="list-inline">
+                    <li>
+                      <div class="thumb">
+                        <img alt="flckr1.jpg" src="../assets/frontend/images/gallery/flckr1.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr2.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr3.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr4.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr5.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr6.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                </ul>
+            <a target="_blank" class="flekar-view" href="https://www.flickr.com/photos/bbitpict/collections/72157666248476002/">View More</a>
+        </div>
+      </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+</footer>
+<div style="background:#333; padding-top: 7px;
+    padding-bottom: 10px;">
+    <div class="container">
+         <div class="row">
+                <div class="col-sm-6">
+                    <div class="footer-social-link">
+                        <ul class="flex">
+                            <li><a href="https://www.facebook.com/bbitofficial"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.youtube.com/watch?v=fzelXDFVgUc"><i class="fa fa-youtube"></i></a></li>
+                           
+                        </ul>
+                    </div>
+                    </div>
+                    <div class="col-sm-6">
+                    <div class="footer-bottom-text">
+                        <p style="color: #b9b8b8;">Copyright &amp;copy 2021. BBIT. All Rights Reserved.</p>
+                    </div>
+                     </div>  
+            </div>
+    </div>
+</div>
+
+
+<!-- Footer Area End -->
+                
+        <!-- Modal form -->
+<div class="modal modal-griev-form fade" id="grievanceModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" data-backdrop="true" >
+
+    <div class="modal-dialog modal-side modal-top-left modal-notify modal-danger" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Grievance/Feedback</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-success d-none" style="display: none;" id="asmsg">Thanks For contacting with us</div>
+                <div class="alert alert-success d-none" style="display: none;" id="anmsg">Message didn't sent,please try again!!</div>
+                <!-- Form -->
+                <form id="modal-info" class="color757575" action="https://www.bbit.edu.in/contact_us/modal_from" method="post">
+                        
+                    <div class="md-form mt-2">
+                        <label>Choose Type</label>
+                    </div>
+                    
+                    <div style="display: flex; align-items: center;">
+                        <!-- Material inline 1 -->
+                        <div class="form-check form-check-inline" style="margin-right:10px;">
+                            <input type="radio" class="form-check-input" id="feedback_type" name="feedback_type"  value="Grievance">
+                            <label class="form-check-label" for="feedback_type">Grievance</label>
+                        </div>
+            
+                        <!-- Material inline 2 -->
+                        <div class="form-check form-check-inline">
+                            <input type="radio" class="form-check-input" id="feedback_type" name="feedback_type"  value="Feedback">
+                            <label class="form-check-label" for="feedback_type">Feedback</label>
+                        </div>
+                    </div>
+                      
+            
+                    <div class="md-form mt-2">
+                        <label>Feedback From</label>
+                    </div>
+                    
+                    <div style="display: flex; align-items: center;">
+                        <!-- Material inline 1 -->
+                        <div class="form-check form-check-inline" style="margin-right:10px;">
+                            <input type="radio" class="form-check-input" id="grievance_form" name="grievance_form"  value="Staff">
+                            <label class="form-check-label" for="grievance_form">Staff</label>
+                        </div>
+            
+                        <!-- Material inline 2 -->
+                        <div class="form-check form-check-inline" style="margin-right:10px;">
+                            <input type="radio" class="form-check-input" id="grievance_form" name="grievance_form"  value="Faculty">
+                            <label class="form-check-label" for="grievance_form">Faculty</label>
+                        </div>
+            
+                        <!-- Material inline 3 -->
+                        <div class="form-check form-check-inline">
+                            <input type="radio" class="form-check-input" id="grievance_form" name="grievance_form" value="Student">
+                            <label class="form-check-label" for="grievance_form">Student</label>
+                        </div>
+                    </div>
+                      
+                      <!-- Name -->
+                      <div class="md-form mt-2">
+                          <label for="name">Name</label>
+                          <input type="text" id="name" name="name" class="form-control">
+                          
+                      </div>
+                      
+                      <!-- Mobile -->
+                      <div class="md-form">
+                          <label for="mobile">Mobile</label>
+                          <input type="text" id="mobile" name="mobile" class="form-control">
+                          
+                      </div>
+                      
+                      <!-- Email -->
+                      <div class="md-form">
+                          <label for="email">E-mail</label>
+                          <input type="email" id="email" name="email" class="form-control">
+                          
+                      </div>
+                      
+                       <!-- Address -->
+                      <div class="md-form">
+                           <label for="address">Address</label>
+                          <input type="text" id="address" name="address" class="form-control">
+                         
+                      </div>
+                      
+                      <!-- Subject -->
+                      <div class="md-form">
+                          <label for="subject">Subject</label>
+                          <input type="text" id="subject" name="subject" class="form-control">
+                          
+                      </div>
+            
+                      <!--Message-->
+                      <div class="md-form">
+                          <label for="materialContactFormMessage">Message</label>
+                          <textarea type="text" id="message" name="message" class="form-control md-textarea" rows="3"></textarea>
+                          
+                      </div>
+                      <!-- Send button -->
+                      <button class="btn btn-outline-info btn-rounded btn-block btn-width z-depth-0 mt-2 waves-effect" type="submit" value="Submit">Send</button>
+            
+                  </form>
+                <!-- Form -->
+          
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Modal form -->
+
+<div class="modal fade apply-modal" id="sideModalTLInfoDemo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-backdrop="true" aria-modal="true">
+  <div class="modal-dialog modal-side modal-top-left modal-notify modal-danger" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Header--> 
+      <div class="modal-header">
+       <h1 class="apply-heading">Enquire Now</h1>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true" class="white-text">×</span>
+        </button>
+      </div>
+      
+      <form id="molad-apply-form" class="molad-apply-form" action="https://www.bbit.edu.in/contact_us/modal_from_enquiry" method="post" >
+      <!--Body-->
+      <div class="modal-body">
+         <div class="alert alert-success d-none" id="asmsgenquiry" >Thanks For contacting with us</div>
+           <div class="alert alert-success d-none" id="anmsgenquiry">Message didn't sent,please try again!!</div> 
+          <div class="single-contact-form">
+              <div class="contact-box name">
+                  <input type="text" id="name_en" name="name_en" placeholder="Your Name*">
+              </div>
+          </div>
+          <div class="single-contact-form">
+              <div class="contact-box name">
+                  <input type="email" id="email_en" name="email_en" placeholder="Mail*">
+              </div>
+          </div>
+          <div class="single-contact-form">
+              <div class="contact-box subject">
+                  <input type="text" id="mobile_en" name="mobile_en" placeholder="Mobile*">
+              </div>
+          </div>
+          <div class="single-contact-form">
+              <div class="contact-box subject">
+                  <input type="text" id="course_en" name="course_en" placeholder="Course*">
+              </div>
+          </div>
+      </div>
+
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+          <div class="contact-btn">
+              <button type="submit" class="btn btn-danger contact-sub-btn waves-effect waves-light" value="Submit">Submit</button>
+          </div>
+      </div>
+      </form>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>        
+                <!--
+        JavaScripts
+        ========================== -->
+        <script src="../assets/frontend_template/js/vendor/jquery-2.2.4.min.js"></script>
+        <script src="../assets/frontend_template/js/vendor/bootstrap.min.js"></script>
+        <script src="../assets/frontend_template/js/vendor/materialize.min.js"></script>
+        
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js'></script><script  src="script.js"></script>
+
+        <script src="../assets/frontend_template/js/owl.carousel.min.js"></script>
+        <script src="../assets/frontend_template/js/jquery.sticky.js"></script>
+        <script src="../assets/frontend_template/js/jquery.slicknav.min.js"></script>
+        
+                
+        <script src="../assets/frontend_template/js/jquery.jCounter-0.1.4.js"></script>
+        <script src="../assets/frontend_template/js/main.js"></script>
+        <!-- <script src="js/minified/minified.js"></script> -->
+        
+        
+         
+        <script>
+        /*
+           $(document).ready(function() {
+            setTimeout(function() { 
+                $("#admission_enq_btn").trigger("click"); 
+            }, 10000);
+              
+            });
+            */
+    </script>
+                <script>
+            $(function(){
+  
+    var swiper = new Swiper('.carousel-gallery .swiper-container', {
+      effect: 'slide',
+      speed: 900,
+      slidesPerView: 5,
+      spaceBetween: 20,
+      simulateTouch: true,
+      autoplay: {
+        delay: 5000,
+        stopOnLastSlide: false,
+        disableOnInteraction: false
+      },
+      pagination: {
+        el: '.carousel-gallery .swiper-pagination',
+        clickable: true
+      },
+      breakpoints: {
+        // when window width is <= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 5
+        },
+        // when window width is <= 480px
+        425: {
+          slidesPerView: 2,
+          spaceBetween: 10
+        },
+        // when window width is <= 640px
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 20
+        }
+      }
+    }); /*http://idangero.us/swiper/api/*/
+  
+    
+  
+});
+</script>
+<!-- //captcha -->
+        
+    
+
+<!---Custom Javascript-->
+<script type="text/javascript">
+
+/*Contact From*/
+$('#new_application_form').submit( function(e) {
+  e.preventDefault();
+  var me = $(this);
+
+  //alert('ok');
+
+  $.ajax({
+    url: me.attr('action'),
+    type: 'POST',
+    data: me.serialize(),
+    dataType: 'json',
+    success: function(response){
+      console.log(response);
+      if(response.success == true)
+      {
+          window.location.href ="https://www.bbit.edu.in/thank-you";
+          //alert('success');
+        //   $("#newmsgapp").show();
+        //   setTimeout(function() { $("#newmsgapp").hide(); }, 3000);
+        //   $('.text-danger').remove();
+        //   document.getElementById("new_application_form").reset();
+        //   //document.getElementById("myDIV").innerHTML = "Thanks For contacting With us";
+        //   //$('html, body').animate({ scrollTop: 0 }, 'slow');
+
+      }
+
+      else if(response.success == 'no')
+      {
+          $("#anmsg").show();
+          setTimeout(function() { $("#anmsg").hide(); }, 1000);
+          $('.text-danger').remove();
+      }
+      else
+      { 
+        $('.text-danger').remove();
+        //alert(response);
+        $.each(response.messages, function(key, value){
+          var element = $('#' + key);
+          element.closest('div.addr-group')
+          //.find('.text-danger').remove();
+          element.after(value);
+
+        });
+
+      }
+    }
+  })
+
+});
+
+</script>
+<script type="text/javascript">
+    $(function () {
+        $("#new_application_program").change(function () {
+            var menu_id = $(this).val();
+            // alert(menu_id);
+            if(menu_id == 0){
+              document.getElementById('div3').style.display = 'none';
+            }else{
+              document.getElementById('div3').style.display = 'block';
+            }
+             $.ajax({
+              url:"https://www.bbit.edu.in/home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id},
+              success:function(data)
+              {
+                //   console.log(data);
+               $('#new_application_course').html(data);
+              }
+             });
+        });
+        var menu_id = $('#new_application_program').val();
+            //alert(menu_id);
+            if(menu_id == 0){
+              document.getElementById('div3').style.display = 'none';
+            }else{
+              document.getElementById('div3').style.display = 'block';
+            }
+             $.ajax({
+              url:"https://www.bbit.edu.in/home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id},
+              success:function(data)
+              {
+               $('#new_application_course').html(data);
+              }
+             });
+             
+        
+/* For Student Enquiry only */
+/*
+    console.log('Enq Js');
+            $("#new_application_program_2").change(function () {
+            var menu_id_2 = $(this).val();
+             //alert(menu_id);
+            if(menu_id_2 == 0){
+              document.getElementById('course_container_2').style.display = 'none';
+            }else{
+              document.getElementById('course_container_2').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_2},
+              success:function(data2)
+              {
+                   console.log(data2);
+                $('#new_application_course_2').html(data2);
+              }
+             });
+        });
+
+        var menu_id_2 = $('#new_application_program_2').val();
+            //alert(menu_id_2);
+            if(menu_id_2 == 0){
+              document.getElementById('course_container_2').style.display = 'none';
+            }else{
+              document.getElementById('course_container_2').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_2},
+              success:function(data2)
+              {
+               $('#new_application_course_2').html(data2);
+              }
+             });
+
+
+             $("#new_application_program_3").change(function () {
+            var menu_id_3 = $(this).val();
+             //alert(menu_id);
+            if(menu_id_3 == 0){
+              document.getElementById('course_container_3').style.display = 'none';
+            }else{
+              document.getElementById('course_container_3').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_3},
+              success:function(data3)
+              {
+                   console.log(data3);
+                $('#new_application_course_3').html(data3);
+              }
+             });
+        });
+
+        var menu_id_3 = $('#new_application_program_3').val();
+            //alert(menu_id_2);
+            if(menu_id_3 == 0){
+              document.getElementById('course_container_3').style.display = 'none';
+            }else{
+              document.getElementById('course_container_3').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_3},
+              success:function(data3)
+              {
+               $('#new_application_course_3').html(data3);
+              }
+             });
+*/
+             
+             
+    });
+</script>
+
+
+ 
+
+<script type="text/javascript">
+
+        /*Girevance Contact Form*/
+        $('#modal-info').submit( function(e) {
+          e.preventDefault();
+          var me = $(this);
+
+          //alert('ok');
+
+          $.ajax({
+            url: me.attr('action'),
+            type: 'POST',
+            data: me.serialize(),
+            dataType: 'json',
+            success: function(response){
+              if(response.success == true)
+              {
+                  //window.location.href ='user';
+                  //alert('success');
+                  $("#asmsg").show();
+                  setTimeout(function() { $("#asmsg").hide(); }, 3000);
+                  $('.text-danger').remove();
+                  document.getElementById("modal-info").reset();
+                  //document.getElementById("myDIV").innerHTML = "Thanks For contacting With us";
+
+
+              }
+              else if(response.success == 'no')
+              {
+                  $("#anmsg").show();
+                  setTimeout(function() { $("#anmsg").hide(); }, 1000);
+                  $('.text-danger').remove();
+              }
+              else
+              { 
+                //alert(response);
+                $('.text-danger').remove();
+                $.each(response.messages, function(key, value){
+                  var element = $('#' + key);
+                  element.closest('div.addr-group')
+                  //.find('.text-danger').remove();
+                  element.after(value);
+
+                });
+
+              }
+            }
+          })
+
+        });
+
+    </script>
+    
+  <script>
+  window.addEventListener('load', function() {
+    if (document.location.pathname.includes('/thank-you')) {
+      gtag('event', 'conversion', {'send_to': 'AW-16595602617/qw53CPis4bcZELmZs-k9'});
+    }
+  });
+</script>
+
+<script>
+  window.addEventListener('load', function() {
+    if (document.querySelector('.alert-success').innerText.includes('Thank') && document.location.pathname == '/contact_us') {
+      gtag('event', 'conversion', {
+        'send_to': 'AW-16595602617/-HM0CLj8jrsZELmZs-k9'
+      });
+    }
+  });
+
+</script>
+    
+    </body>
+
+
+</html>

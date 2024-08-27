@@ -1,0 +1,3268 @@
+<style>
+
+.main-menu .sub-menu{
+    width:200px;
+}
+.main-menu .sub-menu li{
+    position:relative;
+}
+.sub-sub-menu{
+    left: 201px;
+    width: 200px;
+    display: none;
+    background: #fff;
+}
+.sub-menu li:hover .sub-sub-menu {
+    transform: scaleY(1);
+    display:block;
+    position:absolute;
+}
+.sub-sub-menu {
+    top: 3px;
+    border-radius: 5px;
+}
+
+.sub-sub-menu li a {
+    line-height: 35px;
+    display: block;
+    border-bottom: 1px dotted #555;
+    color: #131313;
+    font-weight: 600;
+}
+@media(max-width:767px){
+  .sub-menu li:hover .sub-sub-menu {
+    position:inherit;
+}  
+}
+
+
+.trigger_popup {
+    transform: rotate(270deg);
+    position: fixed;
+    top: 45%;
+    right: -94px;
+    z-index: 999;
+    cursor: pointer;
+    background-color: #f89f31;
+    border-color: #1397e3;
+    border-radius: 5px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 10px 39px;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.33;
+    border: medium none;
+}
+</style>
+<!DOCTYPE html>
+<html lang="zxx" class="no-js">
+    
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+   <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-16595602617"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16595602617');
+</script>
+        <!-- Mobile Specific Meta -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- Add Favicon -->
+       <!--  <link rel="shortcut icon" href="img/logo/favicon.png"> -->
+        <!-- Author Meta -->
+        
+        
+        <!-- ==========seo section============= -->
+
+        <!-- Site Title -->
+       
+       <title>Research & Publication</title>
+
+        <!-- Author Meta -->
+        <meta name="title" content="Research & Publication" />
+
+          <!-- Meta Keyword -->
+          <!--<meta name="keywords" content="" /> -->
+
+
+  
+        <!-- Meta Description -->
+        <meta name="description" content="Research & Publication" />
+        
+        <meta property="og:title" content="Research & Publication" />
+          <meta property="og:type" content="article" />
+                    <meta property="og:url" content="https://www.bbit.edu.in/pages/b-tech-research-publication" />
+          <meta property="og:image" content="Research & Publication" />
+       
+       
+        <!-- ========= seo section end =========== -->
+        
+        <!--
+        CSS
+        ============================================= -->
+        <link href="https://fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Nunito:400,600,700" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Calibri:400,700,400italic,700italic" rel="">
+        <link rel="stylesheet" href="../assets/frontend_template/css/font-awesome.min.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/materialize.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/owl.carousel.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/et-line.css">
+        <!-- <link rel="stylesheet" href="css/animate.css"> -->
+        <link rel="stylesheet" href="../assets/frontend_template/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/slicknav.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/flaticon.css">
+        <link rel="stylesheet" href="../assets/frontend_template/css/main.css">
+        <!-- <link rel="stylesheet" href="css/minified.css"> -->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/css/swiper.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" />
+        
+        <script id="ee-form-2" src="https://eeconfigstaticfiles.blob.core.windows.net/staticfiles/bbitkolkata/ee-form-widget/form-2/widget.js"></script>
+
+        
+    </head>
+    <body>
+        
+        <!--Script for NPF widget-->
+         <!--
+         <script type="text/javascript"> var npf_d='https://admission.bbit.edu.in'; var npf_c='4011'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>
+         
+         
+       <script type="text/javascript"> var npf_d='https://bbit.nopaperforms.com'; var npf_c='4011'; var npf_m='1'; var s=document.createElement("script"); s.type="text/javascript"; s.async=true; s.src="https://track.nopaperforms.com/js/track.js"; document.body.appendChild(s); </script>-->
+        <!--Script for NPF widget-->
+        <main>
+<header id="header5" class="white-bg k-header-top default-header">
+     
+    <!--<a id="admission_enq_btn" class="trigger_popup" href="#" data-toggle="modal" data-target="#enquire_modal">Admission Enquiry</a>-->
+        <div class="header-top hidden-xs">
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-md-12 col-sm-12 col-xs-12 top-center">
+                     
+
+                    <ul class="top-menu flex flex-left float-left">
+                           <!-- Start Dynamic top header menu item-->
+                                                <li>
+                        <a href="research" >Research</a>  
+                        </li>                        
+                                                <li>
+                        <a href="alumni" >Alumni</a>  
+                        </li>                        
+                                                <li>
+                        <a href="https://www.flickr.com/photos/bbitpict/collections/72157666248476002/" target="_blank">Photo Gallery</a>  
+                        </li>                        
+                                                <li>
+                        <a href="../notice" >Notice</a>  
+                        </li>                        
+                                                <li>
+                        <a href="../event/news_event" >News & Events</a>  
+                        </li>                        
+                                              <!-- End Dynamic top header menu item-->
+                      
+                        <li>
+                            <!--<a href="#" data-toggle="modal" data-target="#grievanceModal">Grievance/Feedback</a>-->
+                            <a href="../grievance-feedback">Grievance/Feedback</a>
+                        </li>
+                    </ul>
+
+                    <ul class="top-menu flex flex-right">
+                        <li>For Enquiry: 
+                            <a href="b-tech-research-publication#!" class="" style="">8420123333/9836888444</a>
+                        </li>
+                        <li>
+                            <a href="../apply-now-admission" target="_blank" class="apply_link">Apply Now</a>
+                        </li>
+                     <!--   <li>
+                            <a href="#" class="searchbox" style="line-height: 26px;">
+                            <form>
+                                <input name="q" id="search" type="text" size="10" placeholder="Search here">
+                                <button type="submit"><i class="fa fa-search"></i></button>
+                            </form>
+                        </a>
+                    </li>-->
+                        <li><a href="https://www.facebook.com/bbitofficial"><i style="color: #fff;" class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.youtube.com/watch?v=fzelXDFVgUc"><i style="color: #fff;" class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div  class="container">
+        <div class="navbar-area kindergarten-nav space-between header-logo">
+            <div class="left-bar">
+                <div class="logo">
+                    <a href="../index.html">
+                        <img src="../assets/frontend_template/img/logo.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+	<div class="navbar-area kindergarten-nav flex space-between">
+	<div class="flex">
+		<nav>
+			<ul id="mobile" class="main-menu  hidden-xs">
+      
+								<!-- step 1 -->
+				 <li>
+				 										</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="b-tech-research-publication#" class="" data-toggle="">Institute</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="about-us" class="" data-toggle="">About Us</a>
+													</li>
+												<li class="">
+							<a href="mission-vision" class="" data-toggle="">Mission & Vision</a>
+													</li>
+												<li class="">
+							<a href="managing-trustee" class="" data-toggle="">Managing Trustee</a>
+													</li>
+												<li class="">
+							<a href="from-chairman-s-desk" class="" data-toggle="">From Chairman's Desk</a>
+													</li>
+												<li class="">
+							<a href="executive-director-s-desk" class="" data-toggle="">Executive Director's Desk</a>
+													</li>
+												<li class="">
+							<a href="director-s-desk" class="" data-toggle="">Director's Desk</a>
+													</li>
+												<li class="">
+							<a href="principal-s-desk" class="" data-toggle="">Principal's Desk</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="b-tech-research-publication#" class="" data-toggle="">Academics</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="b-tech-research-publication#" class="" data-toggle="">M.TECH</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="power-systems-ee">Power Systems (EE)</a></li>
+																<li><a href="m-tech-computer-science-engineering-cse">Computer Science & Engineering (CSE)</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="b-tech-research-publication#" class="" data-toggle="">MBA</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="marketing">Marketing</a></li>
+																<li><a href="finance">Finance</a></li>
+																<li><a href="hr">HR</a></li>
+																<li><a href="business-analytics">Business Analytics</a></li>
+																<li><a href="operations">Operations</a></li>
+																<li><a href="healthcare">Healthcare</a></li>
+																<li><a href="systems">Systems</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="b-tech-research-publication#" class="" data-toggle="">B.TECH</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="civil-engineering-ce">Civil Engineering (CE)</a></li>
+																<li><a href="mechanical-engineering-me">Mechanical Engineering (ME)</a></li>
+																<li><a href="electrical-engineering-ee">Electrical Engineering (EE)</a></li>
+																<li><a href="electronics-communication-engineering-ece">Electronics & Communication Engineering (ECE)</a></li>
+																<li><a href="computer-science-engineering-cse">Computer Science & Engineering (CSE)</a></li>
+																<li><a href="basic-science-and-humanities-department-bsh">Basic Science And Humanities Department(BSH)</a></li>
+																<li><a href="information-technology-it">Information Technology(IT)</a></li>
+																<li><a href="cse-in-artificial-intelligence">CSE in Artificial Intelligence</a></li>
+																<li><a href="cse-in-cyber-security">CSE in Cyber Security</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="b-tech-research-publication#" class="" data-toggle="">POLYTECHNIC</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="civil-engineering">Civil Engineering</a></li>
+																<li><a href="mechanical-engineering">Mechanical Engineering</a></li>
+																<li><a href="electrical-engineering">Electrical Engineering</a></li>
+																<li><a href="electronics-tele-communication-engineering">Electronics & Tele Communication Engineering</a></li>
+																<li><a href="computer-science-technology">Computer Science & Technology</a></li>
+																<li><a href="basic-science-and-humanities-depertment-bsh">Basic Science And Humanities Depertment(BSH)</a></li>
+														    </ul>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="b-tech-research-publication#" class="" data-toggle="">Admission</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="eligibility-criteria" class="" data-toggle="">Eligibility Criteria</a>
+													</li>
+												<li class="">
+							<a href="discipline" class="" data-toggle="">Discipline</a>
+													</li>
+												<li class="">
+							<a href="scholarship" class="" data-toggle="">Scholarship</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="b-tech-research-publication#" class="" data-toggle="">Administration</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="b-tech-research-publication#" class="" data-toggle="">Organization</a>
+														<!-- step 3 -->
+						    <ul class="sub-sub-menu">
+																<li><a href="director">Director</a></li>
+																<li><a href="deans">Deans</a></li>
+																<li><a href="registrar">Registrar</a></li>
+														    </ul>
+													</li>
+												<li class="">
+							<a href="academic-council" class="" data-toggle="">Academic Council</a>
+													</li>
+												<li class="">
+							<a href="administration_governing-body" class="" data-toggle="">Governing Body</a>
+													</li>
+												<li class="">
+							<a href="rti" class="" data-toggle="">RTI</a>
+													</li>
+												<li class="">
+							<a href="bbit-regulations" class="" data-toggle="">BBIT Regulations</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 										</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="campus-life" class="" data-toggle="">Campus Life</a>
+                    									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="affiliation" class="" data-toggle="">Affiliation</a>
+                    									</li>
+								<!-- step 1 -->
+				 <li>
+				 											<!-- step 2 -->
+					<ul class="sub-menu">
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="b-tech-research-publication#" class="" data-toggle="">Placement</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="introduction" class="" data-toggle="">Introduction</a>
+													</li>
+												<li class="">
+							<a href="team-members" class="" data-toggle="">Team Members</a>
+													</li>
+												<li class="">
+							<a href="training" class="" data-toggle="">Training</a>
+													</li>
+												<li class="">
+							<a href="placement-status" class="" data-toggle="">Placement Status</a>
+													</li>
+												<li class="">
+							<a href="placement-opportunities" class="" data-toggle="">Placement Opportunities</a>
+													</li>
+											</ul>
+									</li>
+								<!-- step 1 -->
+				 <li>
+				 						<a href="b-tech-research-publication#" class="" data-toggle="">Contact</a>
+                    										<!-- step 2 -->
+					<ul class="sub-menu">
+												<li class="">
+							<a href="../contact-us" class="" data-toggle="">Contact Us</a>
+													</li>
+												<li class="">
+							<a href="../map-and-direction" class="" data-toggle="">Maps And Directions</a>
+													</li>
+												<li class="">
+							<a href="press-release" class="" data-toggle="">Press Release</a>
+													</li>
+											</ul>
+									</li>
+								
+				                <li class="topmenu-hd">
+                <a href="research" >Research</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="alumni" >Alumni</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="https://www.flickr.com/photos/bbitpict/collections/72157666248476002/" target="_blank">Photo Gallery</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="../notice" >Notice</a>  
+                </li>                        
+                                <li class="topmenu-hd">
+                <a href="../event/news_event" >News & Events</a>  
+                </li>                        
+                                
+                   <li class="topmenu-hd">
+                    <a href="../grievance-feedback">Grievance/Feedback</a>
+                 </li>
+                 <li class="topmenu-hd">
+                    <a href="../apply-now-admission" target="_blank" class="apply_link">Apply Now</a>
+                 </li>
+                
+                
+			</ul>
+		</nav>
+	</div>
+</div>     
+	</div>
+</header>
+
+<!--======================= Banner Or Parallax========================-->
+   
+
+
+  <!--======================= Banner Or Parallax========================-->
+
+    <style>
+    .StateId.field-select {
+    width: 100% !important;
+}
+        .left-menu .active{color: red;}
+    </style>
+<!-- Static Banner Area Start -->
+<section id="slider">
+    <div class="static-banner relative">
+        <div class="overlay blue-overlay-5"></div>
+        <div class="page-head">
+            <h2 class="page-title">Research & Publication</h2>
+            <ul class="page-title-btn">
+                <li><a href="../index.html" target="_blank">Home <i class="fa fa-caret-right" aria-hidden="true"></i></a></li>
+                <li><a href="b-tech-research-publication#" class="active">Research & Publication</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+<!-- Static Banner Area End -->
+<!-- Welcome Area Start -->
+
+<section class="section-full bg-gray">
+    <div class="container">
+        <div class="core-feature">
+            <div class="row">
+                <div class="col-md-3 col-sm-4 col-xs-12 buddypress-widget-total res-pad">
+                <div class="single-widget pb-10">
+                   <!--=======================Side Menu========================-->
+                                         
+                     <div class="single-widget pb-10 l-menu">
+    <h2 class="main-head-event">Academics</h2>
+        <div class="common-shadow community">
+        <ul class="left-menu">
+                        <li class="">
+                <a href="b-tech-research-publication#" class="">M.TECH</a>
+                
+                                 <ul class="l-sub-menu">
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne12" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Power Systems (EE)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne12" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne29" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Computer Science & Engineering (CSE)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne29" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="m-tech-computer-science-engineering-cse-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="course"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="m-tech-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="m-tech-research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="major"><span>-</span> Major Laboratories</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                     </ul>
+                            </li>
+                        <li class="">
+                <a href="b-tech-research-publication#" class="">MBA</a>
+                
+                                 <ul class="l-sub-menu">
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne30" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Marketing                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne30" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="marketing-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="marketing-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="marketing-development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne31" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Finance                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne31" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="finance-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="finance-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="finance-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="finance-development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="finance-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne32" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  HR                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne32" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="hr-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="hr-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="hr-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="hr-development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="hr-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne253" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Business Analytics                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne253" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="business-analytics_vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne254" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Operations                                </a>
+                            </h4>
+                        </div>
+                
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne255" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Healthcare                                </a>
+                            </h4>
+                        </div>
+                
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne256" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Systems                                </a>
+                            </h4>
+                        </div>
+                
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                     </ul>
+                            </li>
+                        <li class="">
+                <a href="b-tech-research-publication#" class="">B.TECH</a>
+                
+                                 <ul class="l-sub-menu">
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne35" aria-expanded="true" aria-controls="collapseOne" class=" ">
+                                  Civil Engineering (CE)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne35" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="b-tech-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="b-tech-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="b-tech-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="b-tech-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class="active"><a class="active" href="b-tech-research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="b-tech-major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="seminar-conferences"><span>-</span> Seminar/Conferences</a></li>
+                                                                          <li class=""><a class="" href="b-tech-development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="b-tech-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne36" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Mechanical Engineering (ME)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne36" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="mechanical-engineering-me-seminar-conferences"><span>-</span> Seminar/Conferences</a></li>
+                                                                          <li class=""><a class="" href="development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                          <li class=""><a class="" href="mechazine-2018"><span>-</span> Mechazine 2018</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne37" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Electrical Engineering (EE)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne37" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="b-tech-b-tech-b-tech-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="electrical-engineering-ee-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-b-tech-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-b-tech-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-b-tech-research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-b-tech-major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-seminar-conferences"><span>-</span> Seminar/Conferences</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="b-tech-b-tech-b-tech-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne38" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Electronics & Communication Engineering (ECE)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne38" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-seminar-conferences"><span>-</span> Seminar/Conferences</a></li>
+                                                                          <li class=""><a class="" href="https://www.bbit.edu.in/pages/faculty-development"><span>-</span> Faculty Development</a></li>
+                                                                          <li class=""><a class="" href="electronics-communication-engineering-ece-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne39" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Computer Science & Engineering (CSE)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne39" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse_major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-seminar-conferences"><span>-</span> Seminar/Conferences</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-development-program"><span>-</span> Development Program</a></li>
+                                                                          <li class=""><a class="" href="departmental-activities"><span>-</span> Departmental Activities</a></li>
+                                                                          <li class=""><a class="" href="computer-science-engineering-cse-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne40" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Basic Science And Humanities Department(BSH)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne40" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="basic-science-and-humanities-department-bsh_vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="b-tech-basic-science-and-humanities-depertment-bsh-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="basic-science-and-humanities-department-bsh_research-publication"><span>-</span> Research & Publication</a></li>
+                                                                          <li class=""><a class="" href="major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="basic-science-and-humanities-department-bsh_seminar-conferences"><span>-</span> Seminar/Conferences</a></li>
+                                                                          <li class=""><a class="" href="basic-science-and-humanities-department-bsh_faculty-development"><span>-</span> Faculty Development</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne175" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Information Technology(IT)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne175" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="vision-mission"><span>-</span> Vision Mission</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_course-curriculum"><span>-</span> COURSE CURRICULUM</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_faculty"><span>-</span> FACULTY</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_research-publication"><span>-</span> RESEARCH & PUBLICATION</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_major-laboratories"><span>-</span> MAJOR LABORATORIES</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_seminar-conferences"><span>-</span> SEMINAR/CONFERENCES</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_development-program"><span>-</span> DEVELOPMENT PROGRAM</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_students-achievements"><span>-</span> STUDENTS' ACHIEVEMENTS</a></li>
+                                                                          <li class=""><a class="" href="information-technology-it_departmental-activities"><span>-</span> DEPARTMENTAL ACTIVITIES</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne261" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  CSE in Artificial Intelligence                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne261" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="cse-in-artificial-intelligence_vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="cse-in-artificial-intelligence_major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne264" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  CSE in Cyber Security                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne264" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="cse-in-cyber-security_vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="cse-in-cyber-security_major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                     </ul>
+                            </li>
+                        <li class="">
+                <a href="b-tech-research-publication#" class="">POLYTECHNIC</a>
+                
+                                 <ul class="l-sub-menu">
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne42" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Civil Engineering                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne42" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="polytechnic-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="civil-engineering-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="civil-engineering-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="civil-engineering-faculty"><span>-</span> Faculty</a></li>
+                                                                          <li class=""><a class="" href="civil-engineering-major-laboratories"><span>-</span> Major Laboratories</a></li>
+                                                                          <li class=""><a class="" href="students-projects"><span>-</span> Students' Projects</a></li>
+                                                                          <li class=""><a class="" href="civil-engineering-students-achievements"><span>-</span> Students' Achievements</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne43" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Mechanical Engineering                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne43" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="mechanical-engineering-faculty"><span>-</span> Faculty</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne44" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Electrical Engineering                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne44" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="electrical-engineering-vision-and-mission"><span>-</span> Vision and Mission</a></li>
+                                                                          <li class=""><a class="" href="electrical-engineering-po-peo-pso"><span>-</span> PO / PEO / PSO</a></li>
+                                                                          <li class=""><a class="" href="electrical-engineering-course-curriculum"><span>-</span> Course Curriculum</a></li>
+                                                                          <li class=""><a class="" href="electrical-engineering-faculty"><span>-</span> Faculty</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne45" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Electronics & Tele Communication Engineering                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne45" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="electronics-tele-communication-engineering-faculty"><span>-</span> Faculty</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne46" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Computer Science & Technology                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne46" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="computer-science-technology-faculty"><span>-</span> Faculty</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                          <li>
+                         
+                        <div role="tab" id="headingOne">
+                            <h4 class="panel-title">
+                                <a style="display: block;" data-toggle="collapse" data-parent="#accordion" href="b-tech-research-publication#collapseOne47" aria-expanded="false" aria-controls="collapseOne" class="collapsed ">
+                                  Basic Science And Humanities Depertment(BSH)                                </a>
+                            </h4>
+                        </div>
+                
+                                                        <div id="collapseOne47" class="panel-collapse collapse " role="tabpanel" aria-labelledby="headingOne" aria-expanded="false" style="">
+                                <div class="">
+                                <ul class="l-sub-menu l-co">
+                                                                          <li class=""><a class="" href="basic-science-and-humanities-depertment-bsh-faculty"><span>-</span> Faculty</a></li>
+                                                                     </ul>
+                                </div>
+                            </div> 
+                                     
+                         
+                        
+                     
+                        
+                     </li>
+                                     </ul>
+                            </li>
+                    </ul>
+    </div>
+        
+</div>                   
+                </div>
+                
+                
+                <!-- Apply Now -->
+                <div class="single-widget pb-10">
+    <h2 class="main-head-event">Apply Now</h2>
+    
+    <!--alert message-->
+    <div class="alert alert-success d-none" style="display: none" id="newmsgapp">Thanks For contacting us</div>
+    
+    <div class="common-shadow member-login event-filter">
+           <form class="signup_form" action="https://www.bbit.edu.in/home/new_form_application" method="POST" id="new_application_form"> 
+        
+            <div class="single-filter mb-10">
+                <input spellcheck="false"  type="text" name="new_application_name" id="new_application_name" size="18" required="" placeholder="Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Name'">
+            </div>
+            <div class="single-filter mb-10">
+                <input type="email" name="new_application_email" id="new_application_email" spellcheck="false"  size="18" required="" placeholder="Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Email'">
+            </div>
+            <div class="single-filter mb-10">
+                <input type="text" name="new_application_mobile" id="new_application_mobile"  spellcheck="false" size="18" required="" placeholder="Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'">
+            </div>
+            <div class="single-filter mb-10">
+                <select  name="new_application_program" id="new_application_program">
+                    <option value="" selected>Select Program*</option>
+                                        <option value="11">M.TECH</option>
+                                        <option value="13">MBA</option>
+                                        <option value="34">B.TECH</option>
+                                        <option value="41">POLYTECHNIC</option>
+                                    </select>
+            </div>
+            <div class="single-filter mb-10" id="div3" style="display: none">
+                <select  id="new_application_course" name="new_application_course"> 
+                </select>
+            </div>
+            <div class="single-filter mb-10">
+                <button class="btn" id="submit" type="submit">Submit</button>
+            </div>
+        </form>
+        <!--<p>Not a Member yet? <a href="#">Register</a></p>-->
+    </div>
+</div>                <!-- End Apply Now -->
+                
+                 <!-- Enquire Now NPF Wdget-->
+                                <!-- Enquire Now NPF Wdget-->
+                
+            </div>
+                <div class="col-md-9 col-sm-8 col-xs-12 block-right">
+                    <div class="section-head pb-100">
+                        <h2><i class="fa fa-crosshairs"></i> Research & Publication</h2>
+                        <h4><span>FROM THE PEN OF</span>RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. SUMIT KANJILAL, T.I.C. & ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</h4>
+
+<h5><i class="fa fa-arrow-right ulockd-pad310"></i>Micro-Teaching on “Recent Advances in Civil Engineering” in the Interactive Faculty Training Programme in Jadavpur University in January-2018.</h5>
+
+<h5><i class="fa fa-arrow-right ulockd-pad310"></i>Became the Lifetime Member of International Deep Foundations Institute, New Jersey, USA in Nov-2017.</h5>
+
+<h5><i class="fa fa-arrow-right ulockd-pad310"></i>Attended the Seminar on “Earthquake Resistant Design of Structures” in The Institute of Engineers I.E.(I), Kolkata in July-2017.</h5>
+
+<h5><i class="fa fa-arrow-right ulockd-pad310"></i>Attended the Workshop on “Latest Developments in STAAD Software” in Bentley Ltd., Saltlake, Kolkata in May-2016. </h5>
+
+<h5><i class="fa fa-arrow-right ulockd-pad310"></i>Performed the Consultancy Project works by Testing of Construction Materials of CESC Power Plant and IOCL LPG Bottling Plant in the Calibrated Machines of Concrete Laboratory of BBIT from January-2015 to April-2016.</h5>
+
+<h5><i class="fa fa-arrow-right ulockd-pad310"></i>Attended the Seminar on “Structural Vibration Control Technologies” in IIEST Shibpur in June-2015.</h5>
+
+<h4>RECENT ACADEMIC ACHIEVEMENTS OF PROF. CHINMOY PAL, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</h4>
+
+<h5>Participation in Workshop and Short-Term Training Programme STTP :</h5>
+
+<ul>
+ <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>“National conference on engineering solutions to sustainable development”, 9<sup>th</sup> Oct., 2015.</li>
+ <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>“Analysis and design of multi-storied building using software dedicated for building design”, 9<sup>th</sup> – 13<sup>th</sup> Jan., 2017.</li>
+ <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>International workshop on "Health Monitoring and Rehabilitation of Structures”- organised by Department of Civil Engineering, Jadavpur University, 7<sup>th</sup> Dec., 2018.</li>
+ <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>“Faculty development programme on entrepreneurship development”, 2<sup>nd</sup> to 15<sup>th</sup> Dec., 2016.</li>
+</ul>
+
+<h4>RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. KRISHNENDU KUNDU, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</h4>
+
+<h5>Participation in Workshop and Short-Term Training Programme:</h5>
+
+<ul>
+ <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>1 Day National Workshop on “Challenges faced by working engineering & Building Performance – Nepal Earthquake & aftershocks- 2015”  , Department of Civil Engineering, National Institute of Technology-Agartala, Tripura, India on 8<sup>th</sup> February,2016.</li>
+ <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>2 Days National Workshop on “Recent Trend in Transportation Engineering - 2016”, Department of Civil Engineering, National Institute of Technology-Agartala, Tripura, India on 9<sup>th</sup> &10<sup>th</sup> March,2016.</li>
+ <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>2 weeks Faculty development programme on entrepreneurship development at Budge Budge Institute of Technology- Kolkata from 2<sup>nd</sup> December 2016 to 15<sup>th</sup> December 2016.</li>
+</ul>
+
+<h4>Attended the Seminar on “Structural Vibration Control Technologies” in IIEST Shibpur in June-2015.</h4>
+
+<h5>Published the following Papers :</h5>
+
+<ul class="main-list-style">
+ <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><b><span lang="EN-IN" xss="removed">Krishnendu Kundu, </span></b><span lang="EN-IN" xss="removed">S.R. Banerjee<i>,”Utilization of Fly-ash for Improving the Mechanical Strength of Subgrade Layer”,</i> NCRTET-2017 Agartala, India.<b><i></i></b></span>
+
+ <h4>RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. KRISHNAN PAL, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</h4>
+
+ <h5><span>Attended National Workshop on “Modern Trends in Design and Maintenance in Rigid Pavements”, organised by the department of Civil Engineering ,</span><span lang="EN-IN" xss="removed"><span xss="removed"> Indian Institute of Engineering Science and Technology, Shibpur, Howrah, West Bengal-711103, Under Technical Education Quality Improvement Programme (TEQIP-II) in 2016.</span></span></h5>
+
+ <h4>Published the following Papers :</h4>
+
+ <h5><i class="fa fa-sliders"></i>RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. TAPABRATA ROY, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</h5>
+
+ <h5>Participation in Workshop and Short-Term Training Programme:</h5>
+
+  <ul>
+   <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>1 Day National Workshop on “Challenges faced by working engineering & Building Performance – Nepal Earthquake & aftershocks- 2015” , Department of Civil Engineering, National Institute of Technology-Agartala, Tripura, India on 8th February,2016.</li>
+   <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>2 Days National Workshop on “Recent Trend in Transportation Engineering - 2016”, Department of Civil Engineering, National Institute of Technology-Agartala, Tripura, India on 9th &10th March,2016.</li>
+   <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>2 weeks Faculty development programme on entrepreneurship development at Budge Budge Institute of Technology- Kolkata from 2nd December 2016 to 15th December 2016.</li>
+   <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>1 day workshop on MX ROAD at Bentley, DLF Building, Kolkata on August 2017.</li>
+  </ul>
+
+  <h5>Published the following Papers :</h5>
+  <ul>
+   <li><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>“Prediction of Elastic Settlement of Rectangular Piled Raft Foundation</i>” – Vol. 2 (2015) No. 34; Page N0.-1228 – 1232; Japanese Geotechnical Society Special Publication.</li>
+   <li class="Default" xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i>“Enhance the Performance of Raft Foundation with Piles” - Volume 7, Issue 4, April-2016; ISSN 2229-5518; International Journal of Scientific & Engineering Research (IJSER).</span></span></span></span></li>
+   <li class="Default" xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><i><span xss="removed"><span xss="removed"><span xss="removed">“Behaviour of piled raft system with optimal arrangements of piles”</span></span></span></i><span xss="removed"><span xss="removed"><span xss="removed"> has been published in the proceedings of the Eleventh Structural Engineering Convention, 2018 at Jadavpur University. </span></span></span></span></span></span></li>
+  </ul>
+
+  <h5>Participation in Workshop and Short-Term Training Programme:</h5>
+  <ul>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i> <span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“Application of soft tools (Microsoft Excel and words) in Civil Engineering”- organised by Department of Civil Engineering, NITTTR, Kolkata, from 1<sup>st</sup> Jan to 12<sup>th</sup> Jan, 2018.</span></span></span></span></li>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">Refresher Course on “Recent Advances in Civil and Structural Engineering”</span></span></span><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed"> – organised by Department of Civil Engineering, Jadavpur University, January, 2015.</span></span></span></span></span></span></li>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">International workshop on "Health Monitoring and Rehabilitation of Structures”- </span></span></span><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">organised by Department of Civil Engineering, Jadavpur University, 7<sup>th</sup> Dec., 2018.</span></span></span></span></span></span></li>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">“Faculty Development Programme” – organised by Entrepreneurship Development Institute, from 11<sup>th</sup> Jan to 22th Jan, 2016.</span></span></span></span></span></li>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">“Earthquake Engineering and Mitigation Technique”- </span></span><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">organised by Department of Civil Engineering, Jadavpur University, 3<sup>rd</sup> Sept., 2016.</span></span></span></span></span></span></li>
+  </ul>
+  <h5>Completed the following Consultancy Projects (as a Structural Designer) :</h5>
+
+  <ul>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed">Structural analysis & design of two G+3 multistoried buildings (SEM INFRA Project & MAX MOOVERS Project) in Durgapur under BM INFRACON & DEVELOPERS, 2015</span></span></span></span></span></li>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed">Structural Design of Machine Room and Cooling Tower in Durgapur Steel Plant under BM Infracon & Developers, 2016.</span></span></span></span></span></li>
+  </ul>
+
+  <h5>Membership :</h5>
+
+  <ul>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed">Member of Indian Geotechnical Society (IGS) and International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE).</span></span></span></span></span></span></span></li>
+   <li xss="removed"><i class="fa fa-thumbs-up text-thm2 ulockd-pad310"></i><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed">Associate member of Institute of Engineers, India.</span></span></span></span></span></span></span></li>
+  </ul>
+  <h4>RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. RINI DEY, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</h4>
+
+  <h5>Published the following Papers :</h5>
+  <p>Dey Rini </span></span></b><span lang="EN-IN" xss="removed"><span xss="removed">,Saha Purna Chandra, “ <b>Review On The Performance Of The Control Strategies Used For Smart Benchmark Base Isolated Building” IJRET</b>: International Journal of Research in Engineering and Technology, Volume: 04 Special Issue: 13,ICISE- 2015,Dec-2015,pp- 133 -143, eISSN: 2319-1163 | pISSN: 2321-7308</p>
+  
+  <p><b>Dey Rini </b>,Saha Purna Chandra, “ <b>Review On The Performance Of The Control Strategies Used For Smart Benchmark Base Isolated Building” </b>International Conference on Innovations in Structural Engineering (IC-ISE-2015), Department of Civil Engineering, University College of Engineering (A), Osmania University, Hyderabad, India, 14-16 December 2015. pp -546-559</p>
+  <span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">?       <b>Dey Rini, </b>Saha Purna Chandra, “<b>Innovative control Algorithms used in MR Damper</b>” Advances in Mechanics and Materials, International Conference on Recent Advances in Mechanics & Materials 2016 (ICRAMM 2016), Dec 17- 18, 2016, pp-51-54</span></span></span></span></span></span><br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b> </b></span></span></span></span><br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">?       <b>Dey Rini, </b>Saha Purna Chandra, “<b>Seismic Response Control of Smart Base Isolated Benchmark Building using hybrid Control Strategy</b> <b>(Viscous fluid damper and MR damper)</b> (SEC 2016) 21- 23 December 2016, CSIR- SERC Chennai organised by IIT madras and Anna University</span></span></span></span></span></span><br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">?       </span></span><b><span lang="EN-IN" xss="removed"><span xss="removed">Dey Rini, Saha Purna Chandra</span></span></b><span lang="EN-IN" xss="removed"><span xss="removed">, “<b>Effectiveness of different dynamic models of MR damper used in Smart base isolated benchmark building</b>” ICOVP, 13th International Conference on Vibration Problems 29th November – 2nd December, 2017, Indian Institute of Technology Guwahati, INDIA, proceeding.</span></span></span></span></span></span><br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">?       </span></span><span lang="EN-IN" xss="removed"><span xss="removed">The proceeding of “<b>Seismic Response Control of Smart Base Isolated Benchmark Building using hybrid Control Strategy (Viscous fluid damper and MR damper)</b> (SEC 2016) has been selected to be published in Springer Link.</span></span></span></span></span></span><br>
+   
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed">
+   <ol xss="removed">
+    <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">Have Participated a <b>One day International workshop on Health Monitoring & Rehabilation of Structures</b> organised by <b>Jadapur university</b> on December 7, 2018.</span></span></span></span></span></span></li>
+    <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">Have participated a <b>One Day Seminar on Earthquake Engineering and Mitigation Technique</b> organised by the department of Civil Engineering, <b>Jadavpur university</b> on September 03, 2016.</span></span></span></span></span></span></li>
+    <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">Volunteered a 5-day conference titled <b>“<i>Damage and Impact Assessment of Cyclone Phailin 2015” </i></b>in K.I.I.T. University organized by National Institute of Disaster Management.</span></span></span></span></span></span></li>
+    <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed"><span xss="removed">Participated the <b>NATIONAL AWARD SCHEME FOR CIVIL/STRUCTURAL STUDENT FOR BEST INNOVATIVE STRUCTURAL DESIGN (NACS 2014- 2015</b>) organized by INSDAG and got selected from EASTERN ZONE.</span></span></span></span></span></span></li>
+   </ol>
+   </li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. CHAITI RAY, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">“</span></b><span lang="EN-IN" xss="removed">Water Safety Plan for Rural Areas”, organised by School of Water Resources Engineering, Jadavpur University being the Key Resource Centre of Ministry of Drinking Water & Sanitation, Govt. of India, 2015.</span></span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">“</span></b><span lang="EN-IN" xss="removed">International Symposium on Gen Next Initiatives for Digital India”, BCC&I and JIS Group, 2017.</span></span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. MALOBIKA BARDHAN, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Membership :</span></b></span></span></span></li>
+  </ul>
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed">Associate member of Institute of Engineers, India.</span></span></span></span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT  ACADEMIC  ACHIEVEMENTS  OF  PROF. PRIYA RAI, ASSISTANT PROFESSOR, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“Entrepreneurship faculty educator program” under Pradhan Mantri Yuva Yojna, Heritage Business School, 13<sup>th</sup> to 17<sup>th</sup> Sept., 2017.</span></span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">Seminar on “Project Management and Vigilance”, Budge Budge Institute of Technology, 28<sup>th</sup> March, 2017.</span></span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT ACADEMIC ACHIEVEMENTS OF RHHITAM BHATTACHARJEE, TECHNICAL ASSISTANT, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">“Testing of  Brick, Cement, Aggregates, Concrete including Destructive and Semi Destructive Test ”, </span></b><span lang="EN-IN" xss="removed">organised by Department of Civil Engineering, NITTTR, Kolkata, 2017.</span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">“Identification, Classification, Laboratory & Insitu Testing of Soil”, </span></b><span lang="EN-IN" xss="removed">organised by Department of Civil Engineering, NITTTR, Kolkata, 2018.</span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">”Testing of concrete Materials & Design of Concrete Mixes”, </span></b><span lang="EN-IN" xss="removed">organised by Department of Civil Engineering, NITTTR, Kolkata, 2018.</span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT ACADEMIC ACHIEVEMENTS OF JHILAM ROY, TECHNICAL ASSISTANT, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed"> “Identification, Classification, Laboratory & Insitu Testing of Soil”, </span></b><span lang="EN-IN" xss="removed">organised by Department of Civil Engineering, NITTTR, Kolkata, 2018.</span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT ACADEMIC ACHIEVEMENTS OF MONALISA GUHA BISWAS, TECHNICAL ASSISTANT, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“National conference on engineering solutions to sustainable development”, 9<sup>th</sup> Oct., 2015, BBIT</span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“Earthquake engineering and river training and management”, BBIT, 2015.</span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <br>
+  <span xss="removed"><span xss="removed"><span xss="removed"><b><u><span lang="EN-IN" xss="removed"><span xss="removed"><span xss="removed">RECENT ACADEMIC ACHIEVEMENTS OF ARBIND GHOSH, TECHNICAL ASSISTANT, DEPT. OF CIVIL ENGG., B.B.I.T.</span></span></span></u></b></span></span></span>
+
+  <ul>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><b><span lang="EN-IN" xss="removed">Participation in Workshop and Short-Term Training Programme:</span></b></span></span></span></li>
+  </ul>
+   
+
+  <ol>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“National conference on engineering solutions to sustainable development”, 9<sup>th</sup> Oct., 2015, BBIT.</span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“REFRESHER COURSE ON STRUCTURAL ANALYSIS AND DESIGN USING STADD.PRO SOFTWARE WITH AN INTRODUCTION TO FOUNDATION DESIGN”, organised by Department of Civil Engineering, NITTTR, Kolkata, 11<sup>th</sup> to 15<sup>th</sup> June, 2018.</span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“TESTING ON BRICK , CEMENT, AGGREGATES CONCRETE INCLUDING DESTRUCTIVE AND SEMI DESTRUCTIVE TEST’’, organised by Department of Civil Engineering, NITTTR, Kolkata, 25<sup>th</sup> to 29<sup>th</sup> Sept., 2018.</span></span></span></span></li>
+   <li xss="removed"><span xss="removed"><span xss="removed"><span xss="removed"><span lang="EN-IN" xss="removed">“TESTING OF PAVEMENT MATERIALS’’, organised by Department of Civil Engineering, NITTTR, Kolkata, 7<sup>th</sup> to 11<sup>th</sup> Jan., 2019.</span></span></span></span></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+   
+  <table class="table table-bordered table-hover table-lightgree">
+   <caption>List of Journal publications by the Faculties of Civil Engg Department</caption>
+   <thead>
+    <tr>
+     <td xss="removed">
+     <p>Year Of Publication</p>
+     </td>
+     <td xss="removed">
+     <p>Name(s)</p>
+     </td>
+     <td xss="removed">
+     <p>Paper  Title</p>
+     </td>
+     <td xss="removed">
+     <p>Vol. No.</p>
+     </td>
+     <td xss="removed">
+     <p>Issue No</p>
+     </td>
+     <td xss="removed">
+     <p>Page Nos</p>
+     </td>
+     <td xss="removed">
+     <p>Journal Title</p>
+     </td>
+     <td xss="removed">
+     <p>Place of Publication</p>
+     </td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Rini Dey</p>
+     </td>
+     <td xss="removed">
+     <p>Review On The Performance Of The Control Strategies Used For Smart Benchmark Base Isolated Building (IJRET):, ICISE- 2015,Dec-2015, , eISSN: 2319-1163 | pISSN: 2321-7308</p>
+     </td>
+     <td xss="removed">
+     <p>Vol: 04</p>
+     </td>
+     <td xss="removed">
+     <p>Special Issue: 13</p>
+
+     <p> </p>
+
+     <p>           </p>
+     </td>
+     <td xss="removed">
+     <p>pp- 133 -143</p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Research in Engineering and Technology,</p>
+     </td>
+     <td xss="removed">
+     <p>Department of Civil Engineering, University College of Engineering, Osmania University, Hyderabad, India</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Aditya Shankar Ghosh</p>
+     </td>
+     <td xss="removed">
+     <p>Performance of Rice Husk Ash as a Replacement of Hydrated Cement used in Rigid Pavement</p>
+     </td>
+     <td xss="removed">
+     <p>1</p>
+     </td>
+     <td xss="removed">
+     <p>1</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>All India Seminar on Concrete Roads - An Alternative in Indian Milieu</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>The Institute of Engineers India, West Bengal State Centre</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Prasenjit Bhowmick </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>GIS based Fuzzy modelling approach to identify the suitable sites for artificial recharge of groundwater</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>4</p>
+     </td>
+     <td xss="removed">
+     <p>3</p>
+     </td>
+     <td xss="removed">
+     <p>68-79</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>International Journal of Remote Sensing & Geoscience (IJRSG)</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>Kolkata</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Prasenjit Bhowmick </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>GIS based suitable sites selection for artificial groundwater recharge of Maharashtra state, India</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>3</p>
+     </td>
+     <td xss="removed">
+     <p>4</p>
+     </td>
+     <td xss="removed">
+     <p>33-46</p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Civil Engineering (IJCE)</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Pune</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2013-14</p>
+     </td>
+     <td xss="removed">
+     <p>Prasenjit Bhowmick </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>A review on GIS based fuzzy and boolean logic modelling approach to identify the suitable sites for artificial</p>
+
+     <p>recharge of groundwater</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>3A</p>
+     </td>
+     <td xss="removed">
+     <p>2</p>
+     </td>
+     <td xss="removed">
+     <p>316-319</p>
+     </td>
+     <td xss="removed">
+     <p>Scholars Journal of Engineering and Technology (SJET)</p>
+     </td>
+     <td xss="removed">
+     <p>Pune</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Mobile Phone as a tool for Strategic Marketing</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>VII</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>6</p>
+     </td>
+     <td xss="removed">
+     <p>1127-1133</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>International Research  Journal of Management Sociology and Humanities</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>SPHERT</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Study of Future Prospects of cement Industry in Bengal</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>VI</p>
+     </td>
+     <td xss="removed">
+     <p>9</p>
+     </td>
+     <td xss="removed">
+     <p>1127-1133</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Imperial Journal of Interdisciplinary Research</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Finlogy</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>To forecast demand of cement to support as a ready reference for the upcoming cement Industry in West Bengal</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>VI</p>
+     </td>
+     <td xss="removed">
+     <p>9</p>
+     </td>
+     <td xss="removed">
+     <p>2352-2360</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Engineering Science and Computing</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>International Society for Emerging Engineering Researches(ISEER),Europe & PEARL Inc,Asia</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Study of Future prospects of Online Cement Retailing</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>III</p>
+     </td>
+     <td xss="removed">
+     <p>3</p>
+     </td>
+     <td xss="removed">
+     <p>16-24</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>International Journal of Research</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Granthalaya</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>An analysis of Factor responsible in making Retailer for Selection of a Cement Brand and further expectation of Cement companies for competitive Marketing of Cement</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>IV</p>
+     </td>
+     <td xss="removed">
+     <p>9</p>
+     </td>
+     <td xss="removed">
+     <p>1-9</p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Scientific and Research Publication</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Scientific and Research Publication</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Impact of External Influencer in Recommendations in purchase behavior process of selection of cement for construction</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>III</p>
+     </td>
+     <td xss="removed">
+     <p>8</p>
+     </td>
+     <td xss="removed">
+     <p>1-11</p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Business and Management Invention</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Business and Management Invention</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Institutional Customer centric analysis for selection of cement brand for strategic 4marketing of cement in highly competitive market</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>III</p>
+     </td>
+     <td xss="removed">
+     <p>8</p>
+     </td>
+     <td xss="removed">
+     <p>118-130</p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Innovative Research and studies</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>International Journal of Innovative Research and studies</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Customer buying behavior of Cement Industry in West Bengal</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>XVII</p>
+     </td>
+     <td xss="removed">
+     <p>4</p>
+     </td>
+     <td xss="removed">
+     <p>21-29</p>
+     </td>
+     <td xss="removed">
+     <p>PR Communication Age</p>
+     </td>
+     <td xss="removed">
+     <p>Sashi Publications</p>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+
+  <div class="table-responsive">
+  <table class="table table-bordered table-hover table-lightgree">
+   <caption>List of Conference Publications by the Faculties of Civil Engg Department :</caption>
+   <thead>
+    <tr>
+     <td xss="removed">
+     <p> Year Of Publication</p>
+     </td>
+     <td xss="removed">
+     <p>Name(s)</p>
+     </td>
+     <td xss="removed">
+     <p>Conf. Title</p>
+     </td>
+     <td xss="removed">
+     <p>Place</p>
+     </td>
+     <td xss="removed">
+     <p>Paper Title</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Page Nos</p>
+     </td>
+     <td xss="removed">
+     <p>Proceedings  Publisher</p>
+     </td>
+    </tr>
+   </thead>
+   <tbody>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Rini Dey</p>
+     </td>
+     <td xss="removed">
+     <p>International Conference on Innovations in Structural Engineering  </p>
+     </td>
+     <td xss="removed">
+     <p>University College of Engineering, Osmania University, Hyderabad, India</p>
+     </td>
+     <td xss="removed">
+     <p>Review on The Performance Of The Control Strategies Used For Smart Benchmark Base Isolated Building</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>pp -546-559</p>
+     </td>
+     <td xss="removed">
+     <p>ICISE-2015</p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p> </p>
+
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Rini Dey</p>
+     </td>
+     <td xss="removed">
+     <p> International Conference on Recent Advances in Mechanics & Materials 2016</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>VSSUT, Burla, Odisha, India,</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>Innovative control Algorithms used in MR Damper</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>pp-51-54</p>
+     </td>
+     <td xss="removed">
+     <p>ICRAMM 2016</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p> </p>
+
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Rini Dey</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>Structural Engineering Convention (SEC 2016)</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>IIT Madras and Anna University</p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Seismic Response Control of Smart Base Isolated Benchmark Building using hybrid Control Strategy (Viscous fluid damper and MR damper),</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>4</p>
+     </td>
+     <td xss="removed">
+     <p>CSIR- SERC Chennai</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p> Taniya Saha</p>
+     </td>
+     <td xss="removed">
+     <p>UKIERI Concrete Congress- Concrete Research Driving Profit and Sustainability</p>
+     </td>
+     <td xss="removed">
+     <p>Jalandhar</p>
+     </td>
+     <td xss="removed">
+     <p>Compatibility study for use of high strength steels with higher grades of concrete</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>5</p>
+     </td>
+     <td xss="removed">
+     <p>UKIERI Concrete Congress</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Aditya Shankar Ghosh</p>
+     </td>
+     <td xss="removed">
+     <p>National Conference on Engineering Problems and Application of Mathematics</p>
+     </td>
+     <td xss="removed">
+     <p>NIT Agartala</p>
+     </td>
+     <td xss="removed">
+     <p>Impact of Rice Husk Ash as a  Supplementary Cementing Material used in Rigid Pavement</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>35</p>
+     </td>
+     <td xss="removed">
+     <p>NIT Agartala</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Aditya Shankar Ghosh</p>
+     </td>
+     <td xss="removed">
+     <p>National Conference on Engineering Problems and Application of Mathematics</p>
+     </td>
+     <td xss="removed">
+     <p>NIT Agartala</p>
+     </td>
+     <td xss="removed">
+     <p>Prediction Of C.B.R. Values Of High Plastic Soil For Gangetic Alluvium In West Bengal</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>48</p>
+     </td>
+     <td xss="removed">
+     <p>NIT Agartala</p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2013-14</p>
+     </td>
+     <td xss="removed">
+     <p>Chandrima Bhadra</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Three days National Conference on “Environment: Pollution and Protection” (EPP- 2014<strong>)</strong></p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>NIT Durgapur</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Characterization of soil pollution nearby a municipal solid waste landfill site in Durgapur, West Bengal, India</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>NIT Durgapur</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Priya Rai</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>International Conference on Recent Trends & Challenges in Civil Engineering – 2014</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>MNNIT Allahabad</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Analysis of capacity and level of service of signalized intersection: case study in Kolkata</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+
+     <p>Paper ID. 102</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>MNNIT Allahabad</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Vedatrayee Acharya</p>
+     </td>
+     <td xss="removed">
+     <p>Indian Geotechnical Society</p>
+     </td>
+     <td xss="removed">
+     <p>Pune</p>
+     </td>
+     <td xss="removed">
+     <p>Assessment of Seismic Vulnerability of Agartala town based on Site response Analysis</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Indian Geotechnical Society (IGS)</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Tapabrata Roy</p>
+     </td>
+     <td xss="removed">
+     <p>National Conference on Recent Trends in Emerging Science and Technology (NCRTEST 2016)</p>
+     </td>
+     <td xss="removed">
+     <p>Camellia Institute of Technology, Madhyamgram</p>
+     </td>
+     <td xss="removed">
+     <p>Enhance the Performance of Raft Foundation with Piles</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Volume 7, Issue 4, ISSN 2229 - 5518;</p>
+     </td>
+     <td xss="removed">
+     <p>International Journal of Scientific & Engineering Research (IJSER)</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Tapabrata Roy</p>
+     </td>
+     <td xss="removed">
+     <p>The 15th Asian Regional Conference on Soil Mechanics and Geotechnical Engineering</p>
+     </td>
+     <td xss="removed">
+     <p>Fukuoka, Japan</p>
+     </td>
+     <td xss="removed">
+     <p>Prediction of Elastic Settlement of Rectangular Piled Raft Foundation</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Vol. 2, No. 34; Page N0. - 1228– 1232;</p>
+     </td>
+     <td xss="removed">
+     <p>Japanese Geotechnical Society Special Publication</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Indranil Mookherjee</p>
+     </td>
+     <td xss="removed">
+     <p>International Conference on Emerging</p>
+
+     <p>Trends in Informatics & Communication</p>
+     </td>
+     <td xss="removed">
+     <p>Kolkata</p>
+     </td>
+     <td xss="removed">
+     <p>Characterization of arsenic bearing ECAR</p>
+
+     <p>sludge and its immobilization in concrete</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>46-51</p>
+     </td>
+     <td xss="removed">
+     <p>Brainware Group of Institutions</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Indranil Mookherjee</p>
+     </td>
+     <td xss="removed">
+     <p>International Conference on Emerging</p>
+
+     <p>Trends in Informatics & Communication</p>
+     </td>
+     <td xss="removed">
+     <p>Kolkata</p>
+     </td>
+     <td xss="removed">
+     <p>A comparison of carbon footprint calculators for use in India</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>38-45</p>
+     </td>
+     <td xss="removed">
+     <p>Brainware Group of Institutions</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Indranil Mookherjee</p>
+     </td>
+     <td xss="removed">
+     <p>6<sup>th</sup> International Conference on Solid Waste Management</p>
+     </td>
+     <td xss="removed">
+     <p>Kolkata</p>
+     </td>
+     <td xss="removed">
+     <p>Leachate and septage management of</p>
+
+     <p>model regional waste management centre of six waste bank municipalities of river Hooghly</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>591-601</p>
+     </td>
+     <td xss="removed">
+     <p>Jadavpur University</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Indranil Mookherjee</p>
+     </td>
+     <td xss="removed">
+     <p>6<sup>th</sup> International Conference on Solid Waste Management</p>
+     </td>
+     <td xss="removed">
+     <p>Kolkata</p>
+     </td>
+     <td xss="removed">
+     <p>Sustainable</p>
+
+     <p>management of arsenic bearing sludge</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>880-889</p>
+     </td>
+     <td xss="removed">
+     <p>Jadavpur University</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>Eleventh International Conference on Developing Competencies and Skills for Global Competitiveness</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Indore</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Recent Research Insight and Branding Journey of MNC in India</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Prestige Institute of Management</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>National seminar on Corporate Governance and Business Ethics in Indian Business Environment</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Bhowanipore Education College, Kolkata</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Study of Ethical Business Practices being carried out in present market of Indian cement Industry</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Bhowanipore Education Society</p>
+
+     <p> </p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Dr. Arijit  Maity</p>
+     </td>
+     <td xss="removed">
+     <p>International Conference on Management, Business and Economics, IMRF, Pondicherry</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Pondicherry</p>
+     </td>
+     <td xss="removed">
+     <p>Purchase Behavior of Customers of Cement: A Study on selected Companies in West Bengal</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>IMRF publication</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2014-15</p>
+     </td>
+     <td xss="removed">
+     <p>Krishnan Pal</p>
+     </td>
+     <td xss="removed">
+     <p>Indian Geotechnical Conference (IGC) – 2014</p>
+     </td>
+     <td xss="removed">
+     <p>Kakinada</p>
+     </td>
+     <td xss="removed">
+     <p>Characterization Of Gangetic Alluvium Soils.</p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>IGC</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Krishnan Pal</p>
+     </td>
+     <td xss="removed">
+     <p>National Conference On Engineering Solutions To Sustainable Development (NCESSD)-2015</p>
+     </td>
+     <td xss="removed">
+     <p>BBIT, KOLKATA</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Prediction Of CBR Values From Index Properties Of Soil For Gangetic Alluvium In West Bengal.</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>BBIT</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2015-16</p>
+     </td>
+     <td xss="removed">
+     <p>Krishnan Pal</p>
+     </td>
+     <td xss="removed">
+     <p>National Conference On Engineering Solutions To Sustainable Development (NCESSD)-2015.</p>
+     </td>
+     <td xss="removed">
+     <p>BBIT, KOLKATA</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Congestion Analysis of Two Lane Arterial streets with mixed Traffic Condition</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>BBIT</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Krishnan Pal</p>
+     </td>
+     <td xss="removed">
+     <p>National Level Conference on Engineering Problems and Application of Mathematics-2016 (EPAM-2016)</p>
+     </td>
+     <td xss="removed">
+     <p>National Institute Of Technology, Agartala<strong>.</strong></p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Impact of Rice Husk Ash as a Supplementary Cementing Material Used in Rigid Pavement.</p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>NIT, Agartala</p>
+     </td>
+    </tr>
+    <tr>
+     <td xss="removed">
+     <p>2016-17</p>
+     </td>
+     <td xss="removed">
+     <p>Krishnan Pal</p>
+     </td>
+     <td xss="removed">
+     <p>National Level Conference on Engineering Problems and Application of Mathematics-2016 (EPAM-2016)</p>
+     </td>
+     <td xss="removed">
+     <p>National Institute Of Technology, Agartala<strong>.</strong></p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>Prediction Of CBR Values Of High Plastic Soil For Gangetic Alluvium In West Bengal</p>
+
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p> </p>
+     </td>
+     <td xss="removed">
+     <p>NIT, Agartala</p>
+     </td>
+    </tr>
+   </tbody>
+  </table>
+  </div>
+  </li>
+ </ul>
+ </li>
+</ul>
+                        
+                        
+                                            </div>
+                    
+                    
+
+                </div>
+            </div>
+        </div>
+       
+    </div>
+</section>
+
+
+
+
+</main>
+<!-- Footer Area Start -->
+<footer id="footer1" class="bg-blue" style="background: #444">
+    <div class="footer2">
+        <div class="container">
+            <div class="row" style="padding-bottom: 15px;">
+                <div class="footer-widget">
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-address">
+                            <h4 class="second-title">About BBIT</h4>
+                            <!--<img src="img/footer/1.jpg" alt="" class="img-responsive">-->
+                            <ul class="footer-address">
+                                <li><span class="et-line icon-map-pin"></span>Nischintapur, Budge Budge, Kolkata - 700 137, West Bengal, India</li>
+                                <li><span class="et-line icon-mic"></span> 033 2482 0641</li>
+                                <li><span class="et-line icon-global"></span>contact@bbit.edu.in</li>
+                            </ul>
+                        </div>
+                        <div class="banking-partner-logo" style="margin-top:20px; width:100%">
+                            <img src="../assets/frontend/images/IndusIndBankJPEGlogo.jpg" alt="" class="img-responsive">
+                        </div>
+                        <form style="margin: 0 auto; margin-top: 15px;display: table;"><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_FtPQY7NjOgxETj"> </script> </form>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-link">
+                            <h4 class="second-title">Useful Links</h4>
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <ul>
+                                        <li><a href="about-us">About BBIT</a></li>
+                                        <li><a href="managing-trustee">Managing Trustee</a></li>
+                                        <li><a href="advisory-body">Advisory Body</a></li>
+                                        <li><a href="governing-body">Governing Body</a></li>
+                                        <li><a href="discipline">Discipline</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-sm-8">
+                                    <ul>
+                                        <li><a href="../assets/pdf/Institute_Mandatory_disclosure_2021.pdf" target="_blank">Mandatory Disclousure</a></li>
+                                        <li><a href="training">Training & Placement</a></li>
+                                        <li><a href="alumni">Alumni</a></li>
+                                        <li><a href="../download-file">Downloads</a></li>
+                                                                                <li><a href="nirf">NIRF</a></li>
+                                        <li><a href="iqac">IQAC</a></li>
+                                        <li><a href="ssr">SSR</a></li>
+                                        <li><a href="refund-policy">Refund Policy</a></li>
+                                        <li><a href="naac-appeal">NAAC Appeal</a></li>
+                                        <li><a href="../grievance-feedback">Grievance/Feedback</a></li>
+                                        <li><a class="apply_link" href="../apply-now-admission" target="_blank">Apply Now</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-link">
+                            <h4 class="second-title">Students Corner</h4>
+                            <ul class="student-corner">
+                                                                    
+                                <li><a target="_blank" href="http://www.bbitpublicschool.com/">B.B.I.T. Public School</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="http://jimsh.org">JIMSH Medical College</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="../assets/upload/417914_sar-me-dept.pdf">SAR ME Dept.</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="../career/index.html">Careers</a></li>
+
+                                                                     
+                                <li><a target="_blank" href="../assets/upload/711886_MECHAZINE_Hardcopy_4.pdf">Mechazine 2018</a></li>
+
+                                                                     
+                                <li><a  href="b-tech-research-publication#!">News Letter 2019-20</a></li>
+
+                                                                 
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 col-xs-12 tb-height">
+                        <div class="footer-widget-link">
+                            <div class="flickr-widget">
+            <a target="_blank" href="https://www.flickr.com/photos/bbitpict/sets"><h4 class="second-title">Flickr Feed</h4></a>
+            <ul class="list-inline">
+                    <li>
+                      <div class="thumb">
+                        <img alt="flckr1.jpg" src="../assets/frontend/images/gallery/flckr1.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr2.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr3.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr4.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr5.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                    <li>
+                      <div class="thumb">
+                        <img alt="" src="../assets/frontend/images/gallery/flckr6.jpg" class="img-responsive img-whp">
+                        <div class="overlay">
+                          <span class="flaticon-add"></span>
+                        </div>
+                      </div>
+                    </li>
+                </ul>
+            <a target="_blank" class="flekar-view" href="https://www.flickr.com/photos/bbitpict/collections/72157666248476002/">View More</a>
+        </div>
+      </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+    </div>
+</footer>
+<div style="background:#333; padding-top: 7px;
+    padding-bottom: 10px;">
+    <div class="container">
+         <div class="row">
+                <div class="col-sm-6">
+                    <div class="footer-social-link">
+                        <ul class="flex">
+                            <li><a href="https://www.facebook.com/bbitofficial"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://www.youtube.com/watch?v=fzelXDFVgUc"><i class="fa fa-youtube"></i></a></li>
+                           
+                        </ul>
+                    </div>
+                    </div>
+                    <div class="col-sm-6">
+                    <div class="footer-bottom-text">
+                        <p style="color: #b9b8b8;">Copyright &amp;copy 2021. BBIT. All Rights Reserved.</p>
+                    </div>
+                     </div>  
+            </div>
+    </div>
+</div>
+
+
+<!-- Footer Area End -->
+                
+        <!-- Modal form -->
+<div class="modal modal-griev-form fade" id="grievanceModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" data-backdrop="true" >
+
+    <div class="modal-dialog modal-side modal-top-left modal-notify modal-danger" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Grievance/Feedback</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="alert alert-success d-none" style="display: none;" id="asmsg">Thanks For contacting with us</div>
+                <div class="alert alert-success d-none" style="display: none;" id="anmsg">Message didn't sent,please try again!!</div>
+                <!-- Form -->
+                <form id="modal-info" class="color757575" action="https://www.bbit.edu.in/contact_us/modal_from" method="post">
+                        
+                    <div class="md-form mt-2">
+                        <label>Choose Type</label>
+                    </div>
+                    
+                    <div style="display: flex; align-items: center;">
+                        <!-- Material inline 1 -->
+                        <div class="form-check form-check-inline" style="margin-right:10px;">
+                            <input type="radio" class="form-check-input" id="feedback_type" name="feedback_type"  value="Grievance">
+                            <label class="form-check-label" for="feedback_type">Grievance</label>
+                        </div>
+            
+                        <!-- Material inline 2 -->
+                        <div class="form-check form-check-inline">
+                            <input type="radio" class="form-check-input" id="feedback_type" name="feedback_type"  value="Feedback">
+                            <label class="form-check-label" for="feedback_type">Feedback</label>
+                        </div>
+                    </div>
+                      
+            
+                    <div class="md-form mt-2">
+                        <label>Feedback From</label>
+                    </div>
+                    
+                    <div style="display: flex; align-items: center;">
+                        <!-- Material inline 1 -->
+                        <div class="form-check form-check-inline" style="margin-right:10px;">
+                            <input type="radio" class="form-check-input" id="grievance_form" name="grievance_form"  value="Staff">
+                            <label class="form-check-label" for="grievance_form">Staff</label>
+                        </div>
+            
+                        <!-- Material inline 2 -->
+                        <div class="form-check form-check-inline" style="margin-right:10px;">
+                            <input type="radio" class="form-check-input" id="grievance_form" name="grievance_form"  value="Faculty">
+                            <label class="form-check-label" for="grievance_form">Faculty</label>
+                        </div>
+            
+                        <!-- Material inline 3 -->
+                        <div class="form-check form-check-inline">
+                            <input type="radio" class="form-check-input" id="grievance_form" name="grievance_form" value="Student">
+                            <label class="form-check-label" for="grievance_form">Student</label>
+                        </div>
+                    </div>
+                      
+                      <!-- Name -->
+                      <div class="md-form mt-2">
+                          <label for="name">Name</label>
+                          <input type="text" id="name" name="name" class="form-control">
+                          
+                      </div>
+                      
+                      <!-- Mobile -->
+                      <div class="md-form">
+                          <label for="mobile">Mobile</label>
+                          <input type="text" id="mobile" name="mobile" class="form-control">
+                          
+                      </div>
+                      
+                      <!-- Email -->
+                      <div class="md-form">
+                          <label for="email">E-mail</label>
+                          <input type="email" id="email" name="email" class="form-control">
+                          
+                      </div>
+                      
+                       <!-- Address -->
+                      <div class="md-form">
+                           <label for="address">Address</label>
+                          <input type="text" id="address" name="address" class="form-control">
+                         
+                      </div>
+                      
+                      <!-- Subject -->
+                      <div class="md-form">
+                          <label for="subject">Subject</label>
+                          <input type="text" id="subject" name="subject" class="form-control">
+                          
+                      </div>
+            
+                      <!--Message-->
+                      <div class="md-form">
+                          <label for="materialContactFormMessage">Message</label>
+                          <textarea type="text" id="message" name="message" class="form-control md-textarea" rows="3"></textarea>
+                          
+                      </div>
+                      <!-- Send button -->
+                      <button class="btn btn-outline-info btn-rounded btn-block btn-width z-depth-0 mt-2 waves-effect" type="submit" value="Submit">Send</button>
+            
+                  </form>
+                <!-- Form -->
+          
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Modal form -->
+
+<div class="modal fade apply-modal" id="sideModalTLInfoDemo" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-backdrop="true" aria-modal="true">
+  <div class="modal-dialog modal-side modal-top-left modal-notify modal-danger" role="document">
+    <!--Content-->
+    <div class="modal-content">
+      <!--Header--> 
+      <div class="modal-header">
+       <h1 class="apply-heading">Enquire Now</h1>
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true" class="white-text">×</span>
+        </button>
+      </div>
+      
+      <form id="molad-apply-form" class="molad-apply-form" action="https://www.bbit.edu.in/contact_us/modal_from_enquiry" method="post" >
+      <!--Body-->
+      <div class="modal-body">
+         <div class="alert alert-success d-none" id="asmsgenquiry" >Thanks For contacting with us</div>
+           <div class="alert alert-success d-none" id="anmsgenquiry">Message didn't sent,please try again!!</div> 
+          <div class="single-contact-form">
+              <div class="contact-box name">
+                  <input type="text" id="name_en" name="name_en" placeholder="Your Name*">
+              </div>
+          </div>
+          <div class="single-contact-form">
+              <div class="contact-box name">
+                  <input type="email" id="email_en" name="email_en" placeholder="Mail*">
+              </div>
+          </div>
+          <div class="single-contact-form">
+              <div class="contact-box subject">
+                  <input type="text" id="mobile_en" name="mobile_en" placeholder="Mobile*">
+              </div>
+          </div>
+          <div class="single-contact-form">
+              <div class="contact-box subject">
+                  <input type="text" id="course_en" name="course_en" placeholder="Course*">
+              </div>
+          </div>
+      </div>
+
+      <!--Footer-->
+      <div class="modal-footer justify-content-center">
+          <div class="contact-btn">
+              <button type="submit" class="btn btn-danger contact-sub-btn waves-effect waves-light" value="Submit">Submit</button>
+          </div>
+      </div>
+      </form>
+    </div>
+    <!--/.Content-->
+  </div>
+</div>        
+                <!--
+        JavaScripts
+        ========================== -->
+        <script src="../assets/frontend_template/js/vendor/jquery-2.2.4.min.js"></script>
+        <script src="../assets/frontend_template/js/vendor/bootstrap.min.js"></script>
+        <script src="../assets/frontend_template/js/vendor/materialize.min.js"></script>
+        
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.2.0/js/swiper.min.js'></script>
+        <script src='https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js'></script><script  src="script.js"></script>
+
+        <script src="../assets/frontend_template/js/owl.carousel.min.js"></script>
+        <script src="../assets/frontend_template/js/jquery.sticky.js"></script>
+        <script src="../assets/frontend_template/js/jquery.slicknav.min.js"></script>
+        
+                
+        <script src="../assets/frontend_template/js/jquery.jCounter-0.1.4.js"></script>
+        <script src="../assets/frontend_template/js/main.js"></script>
+        <!-- <script src="js/minified/minified.js"></script> -->
+        
+        
+         
+        <script>
+        /*
+           $(document).ready(function() {
+            setTimeout(function() { 
+                $("#admission_enq_btn").trigger("click"); 
+            }, 10000);
+              
+            });
+            */
+    </script>
+                <script>
+            $(function(){
+  
+    var swiper = new Swiper('.carousel-gallery .swiper-container', {
+      effect: 'slide',
+      speed: 900,
+      slidesPerView: 5,
+      spaceBetween: 20,
+      simulateTouch: true,
+      autoplay: {
+        delay: 5000,
+        stopOnLastSlide: false,
+        disableOnInteraction: false
+      },
+      pagination: {
+        el: '.carousel-gallery .swiper-pagination',
+        clickable: true
+      },
+      breakpoints: {
+        // when window width is <= 320px
+        320: {
+          slidesPerView: 1,
+          spaceBetween: 5
+        },
+        // when window width is <= 480px
+        425: {
+          slidesPerView: 2,
+          spaceBetween: 10
+        },
+        // when window width is <= 640px
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 20
+        }
+      }
+    }); /*http://idangero.us/swiper/api/*/
+  
+    
+  
+});
+</script>
+<!-- //captcha -->
+        
+    
+
+<!---Custom Javascript-->
+<script type="text/javascript">
+
+/*Contact From*/
+$('#new_application_form').submit( function(e) {
+  e.preventDefault();
+  var me = $(this);
+
+  //alert('ok');
+
+  $.ajax({
+    url: me.attr('action'),
+    type: 'POST',
+    data: me.serialize(),
+    dataType: 'json',
+    success: function(response){
+      console.log(response);
+      if(response.success == true)
+      {
+          window.location.href ="https://www.bbit.edu.in/thank-you";
+          //alert('success');
+        //   $("#newmsgapp").show();
+        //   setTimeout(function() { $("#newmsgapp").hide(); }, 3000);
+        //   $('.text-danger').remove();
+        //   document.getElementById("new_application_form").reset();
+        //   //document.getElementById("myDIV").innerHTML = "Thanks For contacting With us";
+        //   //$('html, body').animate({ scrollTop: 0 }, 'slow');
+
+      }
+
+      else if(response.success == 'no')
+      {
+          $("#anmsg").show();
+          setTimeout(function() { $("#anmsg").hide(); }, 1000);
+          $('.text-danger').remove();
+      }
+      else
+      { 
+        $('.text-danger').remove();
+        //alert(response);
+        $.each(response.messages, function(key, value){
+          var element = $('#' + key);
+          element.closest('div.addr-group')
+          //.find('.text-danger').remove();
+          element.after(value);
+
+        });
+
+      }
+    }
+  })
+
+});
+
+</script>
+<script type="text/javascript">
+    $(function () {
+        $("#new_application_program").change(function () {
+            var menu_id = $(this).val();
+            // alert(menu_id);
+            if(menu_id == 0){
+              document.getElementById('div3').style.display = 'none';
+            }else{
+              document.getElementById('div3').style.display = 'block';
+            }
+             $.ajax({
+              url:"https://www.bbit.edu.in/home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id},
+              success:function(data)
+              {
+                //   console.log(data);
+               $('#new_application_course').html(data);
+              }
+             });
+        });
+        var menu_id = $('#new_application_program').val();
+            //alert(menu_id);
+            if(menu_id == 0){
+              document.getElementById('div3').style.display = 'none';
+            }else{
+              document.getElementById('div3').style.display = 'block';
+            }
+             $.ajax({
+              url:"https://www.bbit.edu.in/home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id},
+              success:function(data)
+              {
+               $('#new_application_course').html(data);
+              }
+             });
+             
+        
+/* For Student Enquiry only */
+/*
+    console.log('Enq Js');
+            $("#new_application_program_2").change(function () {
+            var menu_id_2 = $(this).val();
+             //alert(menu_id);
+            if(menu_id_2 == 0){
+              document.getElementById('course_container_2').style.display = 'none';
+            }else{
+              document.getElementById('course_container_2').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_2},
+              success:function(data2)
+              {
+                   console.log(data2);
+                $('#new_application_course_2').html(data2);
+              }
+             });
+        });
+
+        var menu_id_2 = $('#new_application_program_2').val();
+            //alert(menu_id_2);
+            if(menu_id_2 == 0){
+              document.getElementById('course_container_2').style.display = 'none';
+            }else{
+              document.getElementById('course_container_2').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_2},
+              success:function(data2)
+              {
+               $('#new_application_course_2').html(data2);
+              }
+             });
+
+
+             $("#new_application_program_3").change(function () {
+            var menu_id_3 = $(this).val();
+             //alert(menu_id);
+            if(menu_id_3 == 0){
+              document.getElementById('course_container_3').style.display = 'none';
+            }else{
+              document.getElementById('course_container_3').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_3},
+              success:function(data3)
+              {
+                   console.log(data3);
+                $('#new_application_course_3').html(data3);
+              }
+             });
+        });
+
+        var menu_id_3 = $('#new_application_program_3').val();
+            //alert(menu_id_2);
+            if(menu_id_3 == 0){
+              document.getElementById('course_container_3').style.display = 'none';
+            }else{
+              document.getElementById('course_container_3').style.display = 'block';
+            }
+             $.ajax({
+              url:"home/get_childmenu",
+              method:"POST",
+              data:{menu_id:menu_id_3},
+              success:function(data3)
+              {
+               $('#new_application_course_3').html(data3);
+              }
+             });
+*/
+             
+             
+    });
+</script>
+
+
+ 
+
+<script type="text/javascript">
+
+        /*Girevance Contact Form*/
+        $('#modal-info').submit( function(e) {
+          e.preventDefault();
+          var me = $(this);
+
+          //alert('ok');
+
+          $.ajax({
+            url: me.attr('action'),
+            type: 'POST',
+            data: me.serialize(),
+            dataType: 'json',
+            success: function(response){
+              if(response.success == true)
+              {
+                  //window.location.href ='user';
+                  //alert('success');
+                  $("#asmsg").show();
+                  setTimeout(function() { $("#asmsg").hide(); }, 3000);
+                  $('.text-danger').remove();
+                  document.getElementById("modal-info").reset();
+                  //document.getElementById("myDIV").innerHTML = "Thanks For contacting With us";
+
+
+              }
+              else if(response.success == 'no')
+              {
+                  $("#anmsg").show();
+                  setTimeout(function() { $("#anmsg").hide(); }, 1000);
+                  $('.text-danger').remove();
+              }
+              else
+              { 
+                //alert(response);
+                $('.text-danger').remove();
+                $.each(response.messages, function(key, value){
+                  var element = $('#' + key);
+                  element.closest('div.addr-group')
+                  //.find('.text-danger').remove();
+                  element.after(value);
+
+                });
+
+              }
+            }
+          })
+
+        });
+
+    </script>
+    
+  <script>
+  window.addEventListener('load', function() {
+    if (document.location.pathname.includes('/thank-you')) {
+      gtag('event', 'conversion', {'send_to': 'AW-16595602617/qw53CPis4bcZELmZs-k9'});
+    }
+  });
+</script>
+
+<script>
+  window.addEventListener('load', function() {
+    if (document.querySelector('.alert-success').innerText.includes('Thank') && document.location.pathname == '/contact_us') {
+      gtag('event', 'conversion', {
+        'send_to': 'AW-16595602617/-HM0CLj8jrsZELmZs-k9'
+      });
+    }
+  });
+
+</script>
+    
+    </body>
+
+
+</html>
