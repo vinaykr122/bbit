@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        /* styles.css */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        #chat-container {
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            width: 400px;
+            background-color: #fff;
+            display: flex;
+            flex-direction: column;
+            height: 500px;
+        }
+
+        #chat-box {
+            flex: 1;
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+            overflow-y: auto;
+        }
+
+        #messages {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .message {
+            margin-bottom: 10px;
+        }
+
+        .message.user {
+            text-align: right;
+            color: #007bff;
+        }
+
+        .message.bot {
+            text-align: left;
+            color: #333;
+        }
+
+        #input-box {
+            display: flex;
+            border-top: 1px solid #ccc;
+            padding: 10px;
+            background-color: #f9f9f9;
+        }
+
+        #user-input {
+            flex: 1;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 4px;
+            background-color: #007bff;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div id="chat-container">
+        <div id="chat-box">
+            <div id="messages"></div>
+        </div>
+        <div id="input-box">
+            <input type="text" id="user-input" placeholder="Type a message...">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+    <script>
+        async function sendHttpRequest(url, method = "POST", headers = {}, body = null) {
+            const options = {
+                method: method,
+                headers: headers,
+            };
+            
+            if (body) {
+                options.body = JSON.stringify(body);
+                options.headers['Content-Type'] = 'application/json';
+            }
+            
+            try {
+                const response = await fetch(url, options);
+                const responseData = await response.json();
+                return responseData;
+            } catch (error) {
+                console.error("Error:", error);
+                throw error;
+            }
+        }
+
+        function appendMessage(message, sender) {
+            const messagesDiv = document.getElementById("messages");
+            const messageDiv = document.createElement("div");
+            messageDiv.className = `message ${sender}`;
+            messageDiv.textContent = message;
+            messagesDiv.appendChild(messageDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight; // Scroll to the bottom
+        }
+
+        async function sendMessage() {
+            const userInput = document.getElementById("user-input");
+            const message = userInput.value.trim();
+            
+            if (!message) return; // Ignore empty messages
+            
+            // Append user message to chat
+            appendMessage(message, 'user');
+            
+            // Clear input field
+            userInput.value = '';
+
+            const url = "https://webhook.botpress.cloud/f56bc645-c157-4d12-bb7d-034b23849ee2";
+            const headers = {
+                "Authorization": "Bearer your_token" // Optional: Use if authentication is needed
+            };
+            const body = {
+                "userMessage": message,
+                "timestamp": new Date().toISOString()
+            };
+
+            try {
+                const response = await sendHttpRequest(url, "POST", headers, body);
+                // Display bot response
+                appendMessage(response.reply || 'No response from server', 'bot');
+            } catch (error) {
+                // Handle errors
+                appendMessage('Failed to send message. Please try again.', 'bot');
+            }
+        }
+    </script>
+</body>
+</html>
